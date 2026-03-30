@@ -1,0 +1,17 @@
+genre,total,parsed_single,ambiguous,unparsable,ambiguous_rate
+academic,200,0,0,200,0.0
+bio,200,0,0,200,0.0
+conversation,200,0,0,200,0.0
+court,200,0,0,200,0.0
+essay,200,0,0,200,0.0
+fiction,200,0,0,200,0.0
+interview,200,0,0,200,0.0
+letter,200,0,0,200,0.0
+news,200,0,0,200,0.0
+podcast,200,0,0,200,0.0
+reddit,200,0,0,200,0.0
+speech,200,0,0,200,0.0
+textbook,200,0,0,200,0.0
+vlog,200,0,0,200,0.0
+voyage,200,0,0,200,0.0
+whow,200,0,0,200,0.0

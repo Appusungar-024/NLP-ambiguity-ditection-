@@ -1,0 +1,1195 @@
+<text id="GUM_reddit_polygraph" partition="train" author="reddit community (see URL)" dateCollected="2017-09-13" dateCreated="2014-12-23" dateModified="2014-12-23" shortTitle="polygraph" sourceURL="https://www.reddit.com/r/911dispatchers/comments/2q6qnv/the_hiring_process_vol_3_polygraph_and_deception/" speakerCount="1" speakerList="#10_96" title="The Hiring Process Vol. 3 / Polygraph and Deception Detection Devices" type="reddit" summary1="(human1) This guide explains polygraph tests as part of a job interview process, including why polygraphs sometimes indicate deception due to nervousness even when not lying." summary2="(claude-3-5-sonnet-20241022) A post explaining polygraph tests in hiring processes describes how these devices work by detecting fear responses rather than lies directly, emphasizing that while not admissible in court, they remain useful tools when combined with thorough pre-test discussions and honest responses." summary3="(gpt4o) This article explains the role and limitations of polygraph tests in the hiring process, emphasizing that polygraphs are not scientifically foolproof as they merely detect physiological fear responses rather than lies, and advises candidates to honestly discuss any ambiguous areas with examiners beforehand to potentially avoid false indications of deception." summary4="(Llama-3.2-3B-Instruct) Taking a polygraph test involves understanding its limitations and principles, including recognizing involuntary reactions to lying and addressing potential concerns with honesty and thoroughness throughout the process." summary5="(Qwen2.5-7B-Instruct) Polygraphs aid in detecting inconsistencies in applicants' backgrounds, especially for government positions, though they are not scientifically perfect; honesty and cautious interpretation of results are recommended.">
+<head>
+<s type="frag" transition="establishment">
+___	DT	*LOWER*	AT0	DET	det	_
+______	NN	*LOWER*	NN1	NOUN	compound	Hir-ing
+_______	NN	*LOWER*	NN1	NOUN	root	_
+____	NN	*LOWER*	NN1	NOUN	parataxis	_
+_	CD	_	CRD	NUM	flat	_
+_	SYM	_	UNC	PUNCT	punct	_
+_________	NN	*LOWER*	NN1	NOUN	appos	_
+___	CC	_	CJC	CCONJ	cc	_
+_________	NN	*LOWER*	NN1	NOUN	compound	Decept-ion
+_________	NN	*LOWER*	NN1	NOUN	compound	Detect-ion
+_______	NNS	device	NN2	NOUN	conj	Device-s
+</s>
+</head>
+<sp who="#10_96">
+<head>
+<s type="frag" transition="establishment">
+_________	NN	*LOWER*	NN1	NOUN	root	_
+___	CC	_	CJC	CCONJ	cc	_
+_____	JJ	_	AJ0	ADJ	amod	_
+_________	NN	_	NN1	NOUN	compound	decept-ion
+_________	NN	_	NN1	NOUN	compound	detect-ion
+_______	NNS	device	NN2	NOUN	conj	device-s
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+</head>
+<p>
+<s type="decl" transition="zero">
+_____	RB	*LOWER*	ORD	ADV	advmod	_
+_	,	_	PUN	PUNCT	punct	_
+____	DT	_	DT0	PRON	nsubj:outer	_
+__	VBZ	be	VBZ	AUX	cop	_
+___	RB	_	XX0	PART	advmod	_
+__	PP	I	PNP	PRON	nsubj	_
+_______	VVG	tell	VVG	VERB	root	tell-ing
+___	PP	_	PNP	PRON	iobj	_
+___	WRB	_	AVQ	ADV	obj	_
+__	TO	_	TO0	PART	mark	_
+____	VV	_	VVI	VERB	acl	_
+_________	NN	_	NN1	NOUN	obj	_
+_	(	_	PUL	PUNCT	punct	_
+____	NN	_	NN1	NOUN	appos	_
+_	SENT	_	PUN	PUNCT	punct	_
+_	)	_	PUR	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+____	WRB	*LOWER*	CJS	ADV	advmod	_
+______	VVG	take	VVG	VERB	advcl	tak-ing
+___	DT	_	AT0	DET	det	_
+____	NN	_	NN1	NOUN	obj	_
+_	,	_	PUN	PUNCT	punct	_
+__	PP	_	PNP	PRON	expl	_
+__	VBZ	be	VBZ	AUX	cop	_
+______	JJ	_	AJ0	ADJ	root	_
+___	IN	_	PRP	SCONJ	mark	_
+___	DT	_	AT0	DET	det	_
+________	NN	_	NN1	NOUN	nsubj	examin-er
+__	TO	_	TO0	PART	mark	_
+___	VV	_	VVI	VERB	csubj	_
+__	IN	_	CJS	SCONJ	mark	_
+___	PP	_	PNP	PRON	nsubj	_
+____	VHP	_	VHB	AUX	aux	_
+__________	VVN	research	VVN	VERB	ccomp	research-ed
+___	WRB	_	AVQ	ADV	obj	_
+__	TO	_	TO0	PART	mark	_
+____	VV	_	VVI	VERB	acl	_
+___	DT	_	AT0	DET	det	_
+____	NN	_	NN1	NOUN	obj	_
+___________	RB	_	AV0	ADV	advmod	decept-ive-ly
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="imp" transition="continue">
+__	RB	*LOWER*	AV0	ADV	advmod	_
+_	,	_	PUN	PUNCT	punct	_
+__	IN	_	CJS	SCONJ	mark	_
+___	PP	_	PNP	PRON	nsubj	_
+____	VVP	_	VVB	VERB	advcl	_
+____	DT	_	DT0	PRON	obj	_
+_	,	_	PUN	PUNCT	punct	_
+__________	VV	_	VVB	VERB	root	under-stand
+____	IN/that	_	CJT	SCONJ	mark	_
+_	PP	_	PNP	PRON	nsubj	_
+__	VBP	be	VBB	AUX	aux	_
+___	RB	_	XX0	PART	advmod	_
+_____	VVG	go	VVG	VERB	ccomp	go-ing
+__	TO	_	TO0	PART	mark	_
+____	VV	_	VVI	VERB	xcomp	_
+___	PP	_	PNP	PRON	iobj	_
+___	WRB	_	AVQ	ADV	obj	_
+__	TO	_	TO0	PART	mark	_
+____	VV	_	VVI	VERB	acl	_
+___	DT	_	AT0	DET	det	_
+____	NN	_	NN1	NOUN	obj	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+__	PP	*LOWER*	PNP	PRON	expl	_
+__	VBZ	be	VBZ	AUX	cop	_
+____	RB	_	AV0	ADV	advmod	_
+_____	JJ	_	AJ0	ADJ	root	_
+__________	VVG	mention	VVG	VERB	xcomp	mention-ing
+____	IN/that	_	DT0	SCONJ	mark	_
+_____	VVG	do	VDG	VERB	csubj	do-ing
+_________	NN	_	NN1	PRON	obj	some-thing
+____	IN	_	PRP	ADP	case	_
+____	DT	_	DT0	PRON	nmod	_
+__	VBZ	be	VBZ	AUX	cop	_
+_	,	_	PUN	PUNCT	punct	_
+_________	RB	_	AV0	ADV	advmod	general-ly
+_	,	_	PUN	PUNCT	punct	_
+_	DT	_	AT0	DET	det	_
+___	JJ	_	AJ0	ADJ	amod	_
+____	NN	_	NN1	NOUN	csubj	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="imp" transition="zero">
+______	RB	*LOWER*	ORD	ADV	advmod	_
+_	,	_	PUN	PUNCT	punct	_
+___	VV	_	VVB	VERB	root	_
+__	PP	we	PNP	PRON	obj	_
+____	RB	_	AV0	ADV	advmod	_
+___	VV	_	VVI	VERB	xcomp	_
+_________	NN	_	NN1	PRON	obj	some-thing
+___	IN	_	PRP	ADP	case	_
+__	IN	_	PRF	ADP	fixed	_
+___	DT	_	AT0	DET	det	_
+___	NN	_	NN1	NOUN	obl	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+_	DT	*LOWER*	AT0	DET	det	_
+_________	NN	_	NN1	NOUN	nsubj	_
+__	VBZ	be	VBZ	AUX	cop	_
+___	RB	_	XX0	PART	advmod	_
+__________	JJ	_	AJ0	ADJ	root	admiss-ible
+__	IN	_	PRP	ADP	case	_
+________	JJ	_	AJ0	ADJ	amod	crimin-al
+_____	NN	_	NN1	NOUN	obl	_
+_	,	_	PUN	PUNCT	punct	_
+___	CC	_	CJC	CCONJ	cc	_
+___	IN	_	PRP	ADP	case	_
+____	JJ	_	AJ0	ADJ	amod	_
+______	NN	_	NN1	NOUN	conj	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+__	PP	*LOWER*	PNP	PRON	nsubj	_
+__	VBZ	be	VBZ	AUX	aux	_
+___	RB	_	XX0	PART	advmod	_
+_____	VVG	go	VVG	VERB	root	go-ing
+__	TO	_	TO0	PART	mark	_
+____	VV	_	VVI	VERB	xcomp	_
+__	PP	we	PNP	PRON	iobj	_
+________	JJ	_	AJ0	ADJ	amod	specif-ic
+___________	NN	_	NN1	NOUN	obj	in-form-ation
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+_____	EX	*LOWER*	EX0	PRON	expl	_
+____	VHP	_	VHB	AUX	aux	_
+____	VBN	be	VBN	AUX	cop	_
+______	NNS	person	NN0	NOUN	root	_
+___	WP	_	PNQ	PRON	nsubj	_
+____	VHP	_	VHB	AUX	aux	_
+____	VVN	lie	VVN	VERB	acl:relcl	li-ed
+___	CC	_	CJC	CCONJ	cc	_
+___	RB	_	XX0	PART	advmod	_
+_____	VVN	show	VVN	VERB	conj	show-n
+_________	NN	_	NN1	NOUN	obj	decept-ion
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+_____	EX	*LOWER*	EX0	PRON	expl	_
+___	VBP	be	VBB	VERB	root	_
+____	DT	_	DT0	DET	det	_
+______	NNS	person	NN0	NOUN	nsubj	_
+___	WP	_	PNQ	PRON	nsubj	_
+______	VVD	show	VVD	VERB	acl:relcl	show-ed
+_________	NN	_	NN1	NOUN	obj	decept-ion
+_	,	_	PUN	PUNCT	punct	_
+___	WP	_	PNQ	PRON	nsubj	_
+____	VBD	be	VBD	AUX	aux	_
+___	RB	_	XX0	PART	advmod	_
+___________	RB	_	AV0	ADV	advmod	necessari-ly
+_____	VVG	lie	VVG	VERB	acl:relcl	ly-ing
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+______	VHG	have	VHG	AUX	aux	Hav-ing
+____	VVN	say	VVN	VERB	advcl	sai-d
+____	DT	_	CJT	PRON	obj	_
+_	,	_	PUN	PUNCT	punct	_
+__	PP	_	PNP	PRON	nsubj	_
+__	VBZ	be	VBZ	AUX	cop	_
+_____	RB	_	AV0	ADV	advmod	_
+_	DT	_	AT0	DET	det	_
+_____	JJ	_	AJ0	ADJ	amod	_
+____	NN	_	NN1	NOUN	root	_
+___	IN	_	PRP	SCONJ	mark	_
+_________	VVG	verify	VVG	VERB	acl	verify-ing
+____________	NN	_	NN1	NOUN	obj	tru-th-ful-ness
+_	,	_	PUN	PUNCT	punct	_
+___	CC	_	CJC	CCONJ	cc	_
+_	PP	_	PNP	PRON	nsubj	_
+__	VBP	be	UNC	AUX	cop	_
+_	DT	_	AT0	DET	det	_
+___	JJ	_	AJ0	ADJ	amod	_
+___	NN	_	NN1	NOUN	conj	_
+__	IN	_	PRF	SCONJ	mark	_
+_____	VVG	use	VVG	VERB	acl	us-ing
+__	PP	_	PNP	PRON	obj	_
+__	IN	_	PRP	ADP	case	_
+____	DT	_	DT0	DET	det	_
+____	NN	_	NN1	NOUN	obl	_
+__	IN	_	PRF	ADP	case	_
+_	DT	_	AT0	DET	det	_
+_______	NN	_	NN1	NOUN	nmod	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+_________	RB	*LOWER*	AV0	ADV	advmod	Hope-ful-ly
+_	PP	_	PNP	PRON	nsubj	_
+___	MD	_	VM0	AUX	aux	_
+_______	VV	_	VVI	VERB	root	_
+__	IN	_	PRP	ADP	case	_
+___	PP	_	PNP	PRON	obl	_
+___	WRB	_	AVQ	ADV	obj	_
+____	DT	_	CJT	PRON	nsubj	_
+_______	VVZ	happen	VVZ	VERB	advcl:relcl	happ-en-s
+____	RB	_	AV0	ADV	advmod	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="zero">
+___	DT	*LOWER*	DT0	DET	nsubj	_
+__	IN	_	PRF	ADP	case	_
+_____	DT	this	DT0	DET	det	_
+_________	NN	*LOWER*	NN1	NOUN	compound	Decept-ion
+_________	NN	*LOWER*	NN1	NOUN	compound	Detect-ion
+_______	NNS	device	NN2	NOUN	nmod	Device-s
+_	(	_	PUL	PUNCT	punct	_
+___	NNS	_	NN2	NOUN	appos	_
+_	)	_	PUR	PUNCT	punct	_
+____	VVP	_	VVB	VERB	root	_
+__	IN	_	PRP	ADP	case	_
+_	DT	_	AT0	DET	det	_
+_____	JJ	_	AJ0	ADJ	amod	bas-ic
+_________	NN	_	NN1	NOUN	obl	princip-al
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+____	PP$	*LOWER*	DPS	PRON	nmod:poss	_
+____	NN	_	NN1	NOUN	nsubj	_
+___	VHZ	have	VHZ	VERB	root	ha-s
+___________	JJ	_	AJ0	ADJ	amod	in-voluntary
+___	CC	_	CJC	CCONJ	cc	_
+_________	JJ	_	AJ0	ADJ	conj	automat-ic
+_________	NNS	response	NN2	NOUN	obj	respon-se-s
+__	IN	_	PRP	ADP	case	_
+_____	NN	_	NN1	NOUN	nmod	ly-ing
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+_________	RB	*LOWER*	AV0	ADV	advmod	Bas-ic-ally
+_	,	_	PUN	PUNCT	punct	_
+___	PP	_	PNP	PRON	nsubj	_
+___	VBP	be	VBB	AUX	cop	_
+______	JJ	_	AJ0	ADJ	root	_
+__	IN	_	PRF	SCONJ	mark	_
+_______	VVG	get	VVG	VERB	advcl	gett-ing
+______	VVN	catch	VVN	VERB	xcomp	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+__	DT	*LOWER*	AT0	DET	det	_
+______	NN	_	NN1	NOUN	advcl	_
+___	WRB	_	AVQ	ADV	advmod	_
+______	RB	_	DT0	ADV	nsubj	_
+_	,	_	PUN	PUNCT	punct	_
+_____	EX	_	EX0	PRON	expl	_
+__	VBZ	be	VBZ	VERB	root	_
+_____	RB	_	AV0	ADV	advmod	_
+_	DT	_	AT0	DET	det	_
+___	NN	_	NN1	NOUN	nsubj	_
+__	IN	_	PRF	ADP	case	_
+________	NN	_	NN1	PRON	nmod	every-one
+____	WDT	_	CJT	PRON	nsubj	_
+_____	VVZ	hope	VVZ	VERB	acl:relcl	hope-s
+__	PP	_	PNP	PRON	nsubj:pass	_
+__	VVP	_	VD	AUX	aux	_
+___	RB	not	XX0	PART	advmod	_
+___	VV	_	VVB	AUX	aux:pass	_
+______	VVN	catch	VVN	VERB	ccomp	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+___	DT	*LOWER*	AT0	DET	det	_
+____	NN	_	NN1	NOUN	nsubj	_
+____	IN/that	_	CJT	SCONJ	mark	_
+___	PP	_	PNP	PRON	nsubj	_
+___	VBP	be	AJ0	AUX	aux	_
+______	VVN	hook	VVN	VERB	acl	hook-ed
+__	RP	_	AVP	ADP	compound:prt	_
+__	IN	_	PRP	ADP	case	_
+___	DT	_	AT0	DET	det	_
+_______	NN	_	NN1	NOUN	obl	_
+______	RB	_	AV0	ADV	advmod	real-ly
+_____	VVZ	tend	VVZ	VERB	root	tend-s
+__	TO	_	TO0	PART	mark	_
+_______	VV	_	VVI	VERB	xcomp	ampl-ify
+____	DT	_	DT0	PRON	obj	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+_____	DT	this	DT0	DET	det	_
+________	NNS	machine	NN2	NOUN	nsubj	machine-s
+___	VBP	be	VBB	AUX	cop	_
+________	RB	_	AV0	ADV	advmod	act-ual-ly
+____	NN	_	NN1	NOUN	compound	_
+_________	NNS	detector	NN2	NOUN	root	detect-or-s
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+____	PP	*LOWER*	PNP	PRON	nsubj	_
+_______	VVP	_	VVB	VERB	root	_
+____	PP$	_	DPS	PRON	nmod:poss	_
+____	NN	_	NN1	NOUN	nmod:poss	_
+__	POS	's	POS	PART	case	_
+________	NN	_	NN1	NOUN	obj	re-act-ion
+__	IN	_	PRP	ADP	case	_
+____	NN	_	NN1	NOUN	nmod	_
+_	,	_	PUN	PUNCT	punct	_
+____	IN	_	PRP	SCONJ	mark	_
+____	PP$	_	DPS	PRON	nmod:poss	_
+_____	NN	_	NN1	NOUN	compound	_
+____	NN	_	NN1	NOUN	nsubj	_
+__________	VVG	increase	VVG	VERB	acl	increas-ing
+__	CC	_	CJC	CCONJ	cc	_
+________	VVG	change	VVG	VERB	conj	chang-ing
+____	RB	_	AV0	ADV	advmod	_
+__	TO	_	TO0	PART	mark	_
+____	VV	_	VVI	VERB	advcl	_
+___	CD	_	PNI	NUM	obj	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="wh" transition="zero">
+__	RB	*LOWER*	AV0	ADV	advmod	_
+___	WRB	_	AVQ	ADV	advmod	_
+____	VVZ	do	VDZ	AUX	aux	doe-s
+_	DT	_	AT0	DET	det	_
+________	JJ	_	AJ0	ADJ	amod	tru-th-ful
+______	NN	_	NN1	NOUN	nsubj	_
+____	VV	_	NN1	VERB	root	_
+_________	NN	_	NN1	NOUN	obj	decept-ion
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="imp" transition="null">
+___	VV	*LOWER*	VVB	VERB	root	_
+__	PP	I	PNP	PRON	obj	_
+____	VV	_	VVI	VERB	xcomp	_
+___	PP	_	PNP	PRON	iobj	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="null">
+<date when="1994">
+__	CD	_	CRD	NUM	nummod	_
+_____	NNS	year	NN2	NOUN	obl:unmarked	year-s
+___	RB	_	AV0	ADV	advmod	a-go
+</date>
+_	,	_	PUN	PUNCT	punct	_
+__	DT	a	AT0	DET	det	_
+_________	NN	_	NN1	NOUN	nsubj	appli-c-ant
+_	:	_	UNC	PUNCT	punct	_
+___	VV	_	VVB	VERB	parataxis	_
+__	PP	we	PNP	PRON	obj	_
+____	VV	_	VVI	VERB	xcomp	_
+___	PP	he	PNP	PRON	obj	_
+___	NP	_	NP0	PROPN	xcomp	_
+_	:	_	NP0	PUNCT	punct	_
+___	VBD	be	VBD	AUX	cop	_
+___	RB	_	AVP	ADV	root	_
+____	IN	_	PRP	ADP	case	_
+_______	NNS	friend	NN2	NOUN	obl	friend-s
+__	IN	_	PRP	ADP	case	_
+_	DT	_	AT0	DET	det	_
+___	NN	_	NN1	NOUN	obl	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+_____	IN	*LOWER*	CJS	SCONJ	mark	_
+_____	RB	_	AV0	ADV	advmod	_
+__	PP	_	PNP	PRON	nsubj:pass	_
+___	VBD	be	VBD	AUX	aux:pass	_
+__________	VVN	approach	VVN	VERB	root	approach-ed
+__	IN	_	PRP	ADP	case	_
+_	DT	_	AT0	DET	det	_
+__________	NN	_	NN1	NOUN	obl:agent	_
+___	WP	_	PNQ	PRON	nsubj	_
+_______	VVD	offer	VVD	VERB	acl:relcl	offer-ed
+___	PP	he	PNP	PRON	iobj	_
+___	PP$	_	DPS	PRON	nmod:poss	_
+________	NNS	service	NN2	NOUN	obj	service-s
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+___	NP	_	NP0	PROPN	nsubj	_
+_	,	_	PUN	PUNCT	punct	_
+_____	VBG	be	VBG	AUX	cop	be-ing
+___	DT	_	AT0	DET	det	_
+____	JJ	_	AJ0	ADJ	amod	_
+___	CC	_	CJC	CCONJ	cc	_
+__________	JJ	_	AJ0	ADJ	conj	up-stand-ing
+__________	NN	_	NN1	NOUN	advcl	individu-al
+__	PP	_	PNP	PRON	nsubj	_
+__	VBZ	be	VBZ	AUX	acl:relcl	_
+_	,	_	PUN	PUNCT	punct	_
+______	VVD	turn	VVD	VERB	root	turn-ed
+___	PP	she	PNP	PRON	obj	_
+____	RP	_	AVP	ADP	compound:prt	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+__	IN	*LOWER*	PRP	ADP	case	_
+___	PP$	_	DPS	PRON	nmod:poss	_
+__________	NN	_	NN1	NOUN	compound	back-ground
+_________	NN	_	NN1	NOUN	obl	paper-work
+__	PP	_	PNP	PRON	nsubj	_
+_________	VVD	indicate	VVD	VERB	root	indicat-ed
+____	IN/that	_	CJT	SCONJ	mark	_
+__	PP	_	PNP	PRON	nsubj	_
+___	VHD	have	VHD	AUX	aux	_
+_____	RB	_	AV0	ADV	advmod	_
+____	VVN	pay	VVN	VERB	ccomp	pai-d
+______	NN	_	NN1	PRON	iobj	any-one
+___	IN	_	PRP	ADP	case	_
+___	NN	_	NN1	NOUN	obl	_
+___	CC	_	CJC	CCONJ	cc	_
+__	PP	_	PNP	PRON	nsubj	_
+___	VHZ	have	VHZ	AUX	aux	ha-s
+_____	RB	_	AV0	ADV	advmod	_
+______	VVN	seek	VVN	VERB	conj	_
+__	TO	_	TO0	PART	mark	_
+___	VV	_	VVI	VERB	xcomp	_
+______	NN	_	NN1	PRON	iobj	any-one
+___	IN	_	PRP	ADP	case	_
+___	NN	_	NN1	NOUN	obl	_
+_	SENT	_	UNC	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+____	DT	_	AV0	DET	nsubj	_
+___	VBP	be	VBB	AUX	cop	_
+____	JJ	_	AJ0	ADJ	root	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+_______	RB	*LOWER*	AV0	ADV	advmod	How-ever
+_	,	_	PUN	PUNCT	punct	_
+___	NP	_	NP0	PROPN	nsubj	_
+___	VHZ	have	VHZ	VERB	root	ha-s
+_	DT	_	AT0	DET	det	_
+_____	NN	_	NN1	NOUN	obj	_
+__	IN	_	PRF	ADP	case	_
+_	DT	_	AT0	DET	det	_
+_______	NN	_	NN1	NOUN	nmod	_
+____	IN	_	PRP	ADP	case	_
+____	DT	_	DT0	DET	det	_
+_____	NN	_	NN1	NOUN	nmod	_
+____	WRB	_	CJS	ADV	advmod	_
+___	DT	_	AT0	DET	det	_
+________	NN	_	NN1	NOUN	nsubj	examin-er
+____	VVZ	ask	VVZ	VERB	advcl	ask-s
+___	PP	he	PNP	PRON	iobj	_
+__	IN	_	CJS	SCONJ	mark	_
+__	PP	_	PNP	PRON	nsubj	_
+___	VHZ	have	VHZ	AUX	aux	ha-s
+____	VVN	pay	VVN	VERB	advcl	pai-d
+___	IN	_	PRP	ADP	case	_
+___	NN	_	NN1	NOUN	obl	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+___	PP$	*LOWER*	DPS	PRON	nmod:poss	_
+____	NN	_	NN1	NOUN	nsubj	_
+_	,	_	PUN	PUNCT	punct	_
+_____________	RB	_	AV0	ADV	advmod	automat-ic-al-ly
+_	,	_	PUN	PUNCT	punct	_
+__	VBZ	be	VBZ	AUX	cop	_
+______	JJ	_	AJ0	ADJ	root	_
+____	IN/that	_	CJT	SCONJ	mark	_
+__	PP	_	PNP	PRON	nsubj	_
+______	MD	_	VM0	AUX	aux	_
+____	VH	_	VHI	AUX	aux	_
+____	VVN	say	VVN	VERB	ccomp	sai-d
+_________	NN	_	NN1	PRON	obj	some-thing
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+___	DT	*LOWER*	AT0	DET	det	_
+_______	NN	_	NN1	NOUN	nsubj	_
+____	MD	_	VM0	AUX	aux	_
+____	VV	_	VVI	VERB	root	_
+____	DT	_	DT0	DET	det	_
+________	NN	_	NN1	NOUN	obj	re-act-ion
+__	RP	_	AVP	ADP	compound:prt	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="smooth-shift">
+___	DT	*LOWER*	AT0	DET	det	_
+______	NN	_	NN1	NOUN	nsubj:outer	_
+____	DT	_	DT0	PRON	nsubj	_
+__	VBZ	be	VBZ	AUX	cop	_
+___	RB	not	XX0	PART	advmod	_
+__________	JJ	_	AJ0	ADJ	acl	scient-ific
+__	VBZ	be	VBZ	AUX	cop	_
+_______	IN	_	CJS	SCONJ	mark	be-cause
+____	RB	_	AV0	ADV	advmod	_
+_______	IN	_	CJS	SCONJ	mark	be-cause
+__	PP	_	PNP	PRON	nsubj	_
+_____	VVZ	show	VVZ	VERB	advcl	show-s
+_________	NN	_	NN1	NOUN	obj	decept-ion
+__	IN	_	PRP	ADP	case	_
+_	DT	_	AT0	DET	det	_
+__________	JJ	_	AJ0	ADJ	amod	part-ic-ul-ar
+_______	NN	_	NN1	NOUN	obl	_
+_	,	_	PUN	PUNCT	punct	_
+____	VVZ	do	VDZ	AUX	aux	doe-s
+___	RB	not	XX0	PART	advmod	_
+____	VV	_	VVI	VERB	root	_
+___	PP	_	PNP	PRON	nsubj	_
+___	VBP	be	AJ0	AUX	aux	_
+_____	VVG	lie	VVG	VERB	ccomp	ly-ing
+_	SENT	_	UNC	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+__	PP	_	PNP	PRON	nsubj	_
+_____	VVZ	mean	VVZ	VERB	root	mean-s
+____	IN/that	_	CJT	SCONJ	mark	_
+_____	EX	_	EX0	PRON	expl	_
+__	VBZ	be	VBZ	VERB	ccomp	_
+_______	RB	_	AV0	ADV	advmod	usual-ly
+____	JJR	_	AJC	ADJ	nsubj	_
+__	IN	_	PRP	ADP	case	_
+____	DT	_	DT0	DET	det	_
+_____	NN	_	NN1	NOUN	obl	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="retain">
+__	TO	*LOWER*	TO0	PART	mark	_
+______	VV	_	VVI	VERB	advcl	_
+____	DT	_	DT0	PRON	obj	_
+_	,	_	PUN	PUNCT	punct	_
+______	IN	_	CJS	SCONJ	mark	_
+___	PP	_	PNP	PRON	nsubj	_
+____	VVP	_	VVB	VERB	advcl	_
+___	DT	_	AT0	DET	det	_
+____	NN	_	NN1	NOUN	obj	_
+___	PP	_	PNP	PRON	nsubj	_
+____	MD	_	VM0	AUX	aux	_
+____	VV	_	VVI	VERB	root	_
+____	IN	_	PRP	ADP	case	_
+___	DT	_	AT0	DET	det	_
+________	NN	_	NN1	NOUN	obl	examin-er
+___	CC	_	CJC	CCONJ	cc	_
+__	VV	_	VVB	VERB	conj	_
+____	IN	_	PRP	ADP	case	_
+_____	DT	_	AT0	DET	det	_
+________	NN	_	NN1	NOUN	obl	quest-ion
+____	WDT	_	CJT	PRON	nsubj	_
+__	VBZ	be	VBZ	AUX	acl:relcl	_
+__	IN	_	PRP	ADP	case	_
+___	DT	_	AT0	DET	det	_
+____	NN	_	NN1	NOUN	obl	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+____	DT	*LOWER*	DT0	DET	det	_
+___	NN	_	NN1	NOUN	obl:unmarked	_
+___	PP	_	PNP	PRON	nsubj	_
+___	MD	_	VM0	AUX	aux	_
+_______	VV	_	VVI	VERB	root	_
+___	DT	_	DT0	DET	det	_
+____	JJ	_	AJ0	ADJ	amod	_
+_____	NNS	area	NN2	NOUN	obj	area-s
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="multiple" transition="continue">
+___	PP	*LOWER*	PNP	PRON	nsubj	_
+___	MD	_	VM0	AUX	aux	_
+____	VH	_	VHI	AUX	aux	_
+________	VVN	answer	VVN	VERB	root	answer-ed
+_	DT	_	AT0	DET	det	_
+________	NN	_	NN1	NOUN	obj	quest-ion
+__	IN	_	PRP	ADP	case	_
+____	PP$	_	DPS	PRON	nmod:poss	_
+__________	NN	_	NN1	NOUN	nmod	back-ground
+____	IN	_	PRP	ADP	case	_
+_	DT	_	AT0	DET	det	_
+<q>
+_	``	"	PUQ	PUNCT	punct	_
+__	UH	_	ITJ	INTJ	discourse	_
+_	''	"	PUQ	PUNCT	punct	_
+</q>
+______	NN	_	NN1	NOUN	obl	_
+_	,	_	PUN	PUNCT	punct	_
+___	CC	_	CJC	CCONJ	cc	_
+_____	EX	_	EX0	PRON	expl	_
+__	VBZ	be	VBZ	VERB	conj	_
+_	DT	_	AT0	DET	det	_
+<q>
+_	``	"	PUQ	PUNCT	punct	_
+_____	NN	_	NN1	NOUN	nsubj	_
+_	,	_	PUN	PUNCT	punct	_
+___	CC	_	CJC	CCONJ	conj	_
+_	''	"	PUQ	PUNCT	punct	_
+</q>
+__	IN	_	PRP	ADP	case	_
+__	PP	_	PNP	PRON	nmod	_
+______	RB	_	AV0	ADV	advmod	_
+_	:	_	AJ0	PUNCT	punct	_
+__	IN	_	CJS	SCONJ	mark	_
+___	PP	_	PNP	PRON	nsubj	_
+____	VVP	_	VVB	VERB	advcl	_
+____	WP	_	PNQ	PRON	obj	_
+_	PP	_	PNP	PRON	nsubj	_
+____	VVP	_	VVB	VERB	acl:relcl	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="imp" transition="continue">
+____	VV	*LOWER*	VVB	VERB	root	_
+____	JJ	_	AJ0	ADJ	xcomp	_
+____	IN/that	_	CJT	SCONJ	mark	_
+___	PP	_	PNP	PRON	nsubj	_
+_______	VVP	_	VVB	VERB	ccomp	_
+___	DT	_	DT0	DET	obj	_
+__	IN	_	PRF	ADP	case	_
+_____	DT	this	DT0	DET	det	_
+_____	NNS	area	NN2	NOUN	nmod	area-s
+____	IN	_	PRP	ADP	case	_
+___	DT	_	AT0	DET	det	_
+__________	NN	_	NN1	NOUN	compound	back-ground
+____________	NN	_	NN1	NOUN	obl	investigat-or
+___	CC	_	CJC	CCONJ	cc	_
+____	IN	_	PRP	ADP	case	_
+___	DT	_	AT0	DET	det	_
+_________	NN	_	NN1	NOUN	compound	_
+________	NN	_	NN1	NOUN	conj	examin-er
+______	IN	_	PRP	SCONJ	mark	_
+______	VVG	take	VVG	VERB	advcl	tak-ing
+___	DT	_	AT0	DET	det	_
+____	NN	_	NN1	NOUN	obj	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+____	DT	*LOWER*	DT0	DET	det	_
+___	NN	_	NN1	NOUN	obl:unmarked	_
+_	,	_	PUN	PUNCT	punct	_
+___	PP	_	PNP	PRON	nsubj	_
+___	MD	will	AJ0	AUX	aux	_
+____	VV	_	NN1	VERB	root	_
+____	IN/that	_	CJT	SCONJ	mark	_
+__	PP	_	PNP	PRON	nsubj:pass	_
+__	VHZ	have	VVZ	AUX	aux	_
+____	VBN	be	VBN	AUX	aux:pass	_
+_________	VVN	address	VVN	VERB	ccomp	address-ed
+___	CC	_	CJC	CCONJ	cc	_
+__	PP	_	PNP	PRON	nsubj	_
+__	VBZ	be	VBZ	AUX	cop	_
+____	RB	_	AV0	ADV	advmod	_
+____	RBR	_	AV0	ADV	advmod	_
+______	JJ	_	AJ0	ADJ	conj	like-ly
+__	TO	_	TO0	PART	mark	_
+__	VB	_	VBI	AUX	cop	_
+_	DT	_	AT0	DET	det	_
+_________	NN	_	NN1	NOUN	xcomp	non-issue
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="imp" transition="zero">
+_____	RB	*LOWER*	ORD	ADV	advmod	_
+_	,	_	PUN	PUNCT	punct	_
+______	UH	_	ITJ	INTJ	discourse	_
+____	VV	_	VVB	VERB	root	_
+____	IN/that	_	CJT	SCONJ	mark	_
+______	JJ	_	AJ0	ADJ	amod	_
+_____	NN	_	NN1	NOUN	nsubj	_
+__	VBZ	be	VBZ	AUX	cop	_
+_____	RB	_	AV0	ADV	advmod	_
+____	RB	_	AV0	ADV	advmod	_
+____	RB	_	AV0	ADV	ccomp	_
+__	IN	_	PRP	ADP	case	_
+___	DT	_	AT0	DET	det	_
+_____	NN	_	NN1	NOUN	obl	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="q" transition="null">
+____	VHP	*LOWER*	VHB	AUX	aux	_
+___	PP	_	PNP	PRON	nsubj	_
+____	VVN	see	VVN	VERB	root	see-n
+___	DT	_	AT0	DET	det	_
+_____	NN	_	NN1	NOUN	obj	_
+____	IN	_	PRP	ADP	case	_
+_____	NP	_	NP0	PROPN	nmod:poss	_
+__	POS	's	POS	PART	case	_
+______	NP	_	NP0	PROPN	nmod	_
+_____	WRB	_	AVQ	ADV	advmod	_
+___	DT	_	AT0	DET	det	_
+<q>
+_	``	"	PUQ	PUNCT	punct	_
+_____	JJ	_	AJ0	ADJ	amod	_
+___	NN	_	NN1	NOUN	nsubj	_
+_	''	"	PUQ	PUNCT	punct	_
+</q>
+__	VBZ	be	VBZ	AUX	aux	_
+__________	VVG	undergo	VVG	VERB	acl:relcl	under-go-ing
+_	DT	_	AT0	DET	det	_
+_________	NN	_	NN1	NOUN	obj	_
+__	IN	_	CJS	SCONJ	mark	_
+__	PP	_	PNP	PRON	nsubj	_
+___	MD	_	VM0	AUX	aux	_
+___	VV	_	VVI	VERB	advcl	_
+___	DT	_	AT0	DET	det	_
+______	NN	_	NN1	NOUN	compound	_
+___	NN	_	NN1	NOUN	obj	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+____	PP	*LOWER*	PNP	PRON	nsubj	_
+___	VVD	_	VVD	VERB	root	_
+_	DT	_	AT0	DET	det	_
+_____	NN	_	NN1	NOUN	compound	_
+____	NN	_	NN1	NOUN	obj	_
+__	IN	_	PRP	ADP	case	_
+___	PP$	_	DPS	PRON	nmod:poss	_
+____	NN	_	NN1	NOUN	obl	_
+__	IN	_	PRP	SCONJ	mark	_
+____	IN/that	_	CJT	SCONJ	fixed	_
+____	WRB	_	CJS	ADV	reparandum	_
+__	PP	_	PNP	PRON	nsubj	_
+_____	MD	_	VM0	AUX	aux	_
+____	VV	_	VVI	VERB	advcl	_
+___	PP$	_	DPS	PRON	nmod:poss	_
+____	NN	_	NN1	NOUN	obj	_
+__	IN	_	PRP	ADP	case	_
+___	DT	_	AT0	DET	det	_
+________	JJ	_	AJ0	ADJ	amod	tru-th-ful
+_______	NNS	answer	NN2	NOUN	obl	answer-s
+___	CC	_	CJC	CCONJ	cc	_
+___	RB	_	XX0	PART	advmod	_
+__	IN	_	PRP	ADP	case	_
+___	DT	_	AT0	DET	det	_
+____	NNS	lie	NN2	NOUN	conj	lie-s
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+____	DT	*LOWER*	DT0	DET	det	_
+___	NN	_	NN1	NOUN	obl:unmarked	_
+__	PP	_	PNP	PRON	nsubj	_
+___	VBD	be	VBD	AUX	cop	_
+__________	JJ	_	AJ0	ADJ	root	consist-ent
+_______	IN	_	PRP	ADP	case	_
+___	DT	_	AT0	DET	det	_
+____	NN	_	NN1	NOUN	obl	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+__	PP	*LOWER*	PNP	PRON	nsubj:pass	_
+___	VBD	be	VBD	AUX	aux:pass	_
+______	RB	_	AV0	ADV	advmod	al-way-s
+________	VVN	stress	VVN	VERB	root	stress-ed
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="retain">
+___	DT	*LOWER*	AT0	DET	det	_
+________	NN	_	NN1	NOUN	nsubj	examin-er
+____	RB	_	AV0	ADV	advmod	_
+_____	VVZ	make	VVZ	VERB	root	make-s
+___	DT	_	AT0	DET	det	_
+_______	NN	_	NN1	NOUN	obj	_
+____	IN/that	_	CJT	SCONJ	mark	_
+<quote>
+_	``	"	PUQ	PUNCT	punct	_
+___	NN	_	NN1	NOUN	discourse	_
+__	TO	_	TO0	PART	mark	_
+____	VV	_	VVI	VERB	advcl	_
+__	IN	_	PRP	ADP	case	_
+___	PP	he	PNP	PRON	obl	_
+_	,	_	PUN	PUNCT	punct	_
+_	PP	_	PNP	PRON	nsubj	_
+_____	MD	_	VM0	AUX	aux	_
+_____	VV	_	VVI	VERB	acl	_
+__	PP	_	PNP	PRON	nsubj	_
+__	VBZ	be	NN2	AUX	aux	_
+_____	VBG	be	VBG	AUX	cop	be-ing
+_________	JJ	_	AJ0	ADJ	ccomp	decept-ive
+_	SENT	_	PUN	PUNCT	punct	_
+_	''	"	PUQ	PUNCT	punct	_
+</quote>
+</s>
+<s type="decl" transition="zero">
+____	UH	*LOWER*	ITJ	INTJ	discourse	_
+_	,	_	PUN	PUNCT	punct	_
+_____	RB	_	ORD	ADV	advmod	_
+_	:	_	UNC	PUNCT	punct	_
+___	DT	_	AT0	DET	det	_
+_____	NN	_	NN1	NOUN	compound	_
+____	NN	_	NN1	NOUN	compound	_
+_____	NN	_	NN1	NOUN	nsubj	_
+____	VVZ	do	VDZ	AUX	aux	doe-s
+___	RB	not	XX0	PART	advmod	_
+____	VV	_	VVI	VERB	root	_
+_	SENT	_	NP0	PUNCT	punct	_
+</s>
+<s type="imp" transition="establishment">
+__	VV	_	VDI	AUX	aux	_
+___	RB	not	XX0	PART	advmod	_
+___	VV	_	VVB	VERB	root	_
+__	PP	_	PNP	PRON	obj	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+___	PP	*LOWER*	PNP	PRON	nsubj	_
+___	MD	will	AJ0	AUX	aux	_
+___	VV	_	NN1	VERB	root	_
+__	RP	_	AVP	ADP	compound:prt	_
+____	IN	_	PRP	ADP	case	_
+_	DT	_	AT0	DET	det	_
+____	VVN	_	VVN	VERB	amod	_
+____	NN	_	NN1	NOUN	obl	_
+_	,	_	PUN	PUNCT	punct	_
+___	CC	_	CJC	CCONJ	cc	_
+_________	NN	_	NN1	NOUN	conj	decept-ion
+__________	RB	_	AV0	ADV	advmod	every-where
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+______	RB	*LOWER*	ORD	ADV	advmod	_
+_	,	_	PUN	PUNCT	punct	_
+___	DT	_	AT0	DET	det	_
+_____	JJ	_	AJ0	ADJ	amod	_
+_______	NN	_	NN1	NOUN	nsubj	_
+____	MD	_	VM0	AUX	aux	_
+__	VB	_	VBI	AUX	cop	_
+____	JJ	_	AJ0	ADJ	root	_
+__	TO	_	TO0	PART	mark	_
+_______	VV	_	VVI	VERB	xcomp	in-clude
+___	DT	_	DT0	DET	det	_
+_________	JJ	_	AJ0	ADJ	amod	potent-ial
+_____	NNS	sign	NN2	NOUN	obj	sign-s
+__	IN	_	PRF	ADP	case	_
+_________	NN	_	NN1	NOUN	nmod	decept-ion
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+_____	RB	*LOWER*	AV0	ADV	advmod	_
+_	,	_	PUN	PUNCT	punct	_
+__	PP	_	PNP	PRON	expl	_
+__	VBZ	be	VBZ	AUX	cop	_
+_________	RB	_	AV0	ADV	advmod	general-ly
+_	DT	_	AT0	DET	det	_
+___	JJ	_	AJ0	ADJ	amod	_
+____	NN	_	NN1	NOUN	root	_
+__	TO	_	TO0	PART	mark	_
+___	VV	_	VVI	VERB	csubj	_
+___	CC	_	CJC	CCONJ	cc	_
+_________	VV	_	VVI	VERB	conj	_
+___	WRB	_	AVQ	ADV	obj	_
+__	TO	_	TO0	PART	mark	_
+____	VV	_	VVI	VERB	acl	_
+____	DT	_	DT0	DET	det	_
+____	NN	_	NN1	NOUN	obj	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="imp" transition="establishment">
+__	VV	*LOWER*	VDB	AUX	aux	_
+___	RB	not	XX0	PART	advmod	_
+__	VV	_	VDB	VERB	root	_
+__	PP	_	PNP	PRON	obj	_
+_	,	_	PUN	PUNCT	punct	_
+____	RB	_	AV0	ADV	advmod	_
+__	VB	_	VBI	AUX	cop	_
+______	JJ	_	AJ0	ADJ	parataxis	_
+_______	IN	_	PRP	ADP	case	_
+___	DT	_	AT0	DET	det	_
+_______	NN	_	NN1	NOUN	obl	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+____	DT	*LOWER*	DT0	DET	det	_
+____	NN	_	NN1	NOUN	nsubj	_
+__	VBZ	be	VBZ	AUX	cop	_
+_____	RB	_	AV0	ADV	root	_
+___	IN	_	PRP	ADP	case	_
+_	DT	_	AT0	DET	det	_
+______	NN	_	NN1	NOUN	obl	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="sub" transition="null">
+_______	RB	*LOWER*	AV0	ADV	advmod	Final-ly
+_	,	_	PUN	PUNCT	punct	_
+___	CC	_	CJC	CCONJ	cc	_
+____	RBS	_	AV0	ADV	advmod	_
+___________	RB	_	AV0	ADV	conj	import-ant-ly
+_	,	_	PUN	PUNCT	punct	_
+___	PP	_	PNP	PRON	nsubj	_
+______	MD	_	VM0	AUX	aux	_
+____	VV	_	VVI	VERB	root	_
+____	IN/that	_	CJT	SCONJ	mark	_
+________	NN	_	NN1	PRON	nsubj:pass	every-one
+__	VBZ	be	VBZ	AUX	aux:pass	_
+___________	VVN	intimidate	VVN	VERB	ccomp	intimidat-ed
+__	IN	_	PRP	ADP	case	_
+____	DT	_	DT0	DET	det	_
+____	NN	_	NN1	NOUN	obl:agent	_
+__	IN	_	PRP	ADP	case	_
+___	DT	_	AT0	DET	det	_
+_______	NN	_	NN1	NOUN	obl	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="sub" transition="establishment">
+___	PP	*LOWER*	PNP	PRON	nsubj	_
+__	VVP	_	VD	AUX	aux	_
+___	RB	not	XX0	PART	advmod	_
+____	VV	_	VVB	VERB	root	_
+__	TO	_	TO0	PART	mark	_
+_____	VV	_	VVI	VERB	xcomp	_
+_____	IN	_	PRP	SCONJ	mark	_
+___________	NN	_	NN1	NOUN	nsubj	nerv-ous-ness
+________	VVG	trip	VVG	VERB	advcl	tripp-ing
+___	DT	_	AT0	DET	det	_
+_______	NN	_	NN1	NOUN	obj	_
+__	CC	_	CJC	CCONJ	cc	_
+______	VVG	give	VVG	VERB	conj	giv-ing
+___	PP	_	PNP	PRON	iobj	_
+_	DT	_	AT0	DET	det	_
+_____	JJ	_	AJ0	ADJ	amod	_
+__________	NN	_	NN1	NOUN	obj	indicat-ion
+__	IN	_	PRF	ADP	case	_
+_________	NN	_	NN1	NOUN	nmod	decept-ion
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="sub" transition="smooth-shift">
+__	IN	*LOWER*	CJS	SCONJ	mark	_
+__	PP	_	PNP	PRON	nsubj	_
+___	VVD	do	VDD	VERB	advcl	_
+____	DT	_	DT0	PRON	obj	_
+____	RB	_	AV0	ADV	advmod	_
+_______	IN	_	CJS	SCONJ	mark	be-cause
+______	NNS	person	NN0	NOUN	nsubj	_
+____	VBD	be	VBD	AUX	cop	_
+_______	JJ	_	AJ0	ADJ	advcl	nerv-ous
+_	,	_	PUN	PUNCT	punct	_
+____	RB	_	AV0	ADV	advmod	_
+__	DT	_	AT0	DET	det	_
+___	NN	_	NN1	PRON	nsubj	_
+_____	MD	_	VM0	AUX	aux	_
+____	RB	_	AV0	ADV	advmod	_
+____	VV	_	VVI	VERB	root	_
+_____	DT	this	DT0	DET	det	_
+_____	NNS	test	NN2	NOUN	obj	test-s
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="multiple" transition="zero">
+___	DT	*LOWER*	AT0	DET	det	_
+____	NN	_	NN1	NOUN	nsubj	_
+_____	VVZ	tend	VVZ	VERB	root	tend-s
+__	TO	_	TO0	PART	mark	_
+__	VB	_	VBI	AUX	cop	_
+___	DT	_	AT0	DET	det	_
+____	NN	_	NN1	NOUN	xcomp	_
+__	IN	_	PRF	ADP	case	_
+___	DT	_	AT0	DET	det	_
+_______	NN	_	NN1	NOUN	nmod	_
+____	WDT	_	CJT	PRON	obj	_
+________	NN	_	NN1	PRON	nsubj	every-one
+______	VVZ	dread	VVZ	VERB	acl:relcl	dread-s
+_	:	_	AJ0	PUNCT	punct	_
+___	CC	_	CJC	CCONJ	cc	_
+____	DT	_	CJT	PRON	nsubj	_
+______	RB	_	AV0	ADV	advmod	real-ly
+______	MD	_	VM0	AUX	aux	_
+___	RB	not	XX0	PART	advmod	_
+__	VB	_	VBI	AUX	cop	_
+___	DT	_	AT0	DET	det	_
+____	NN	_	NN1	NOUN	conj	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+___	PP	*LOWER*	PNP	PRON	nsubj	_
+____	VHP	_	VHB	AUX	aux	_
+_______	RB	_	AV0	ADV	advmod	al-ready
+________	VVN	answer	VVN	VERB	root	answer-ed
+_____	DT	_	AT0	DET	det	_
+________	NN	_	NN1	NOUN	obj	quest-ion
+______	IN	_	PRP	ADP	case	dur-ing
+____	PP$	_	DPS	PRON	nmod:poss	_
+__________	NN	_	NN1	NOUN	compound	back-ground
+_____________	NN	_	NN1	NOUN	obl	investigat-ion
+____	WDT	_	CJT	PRON	obj	_
+____	PP	_	PNP	PRON	nsubj	_
+___	VBP	be	VBB	AUX	aux	_
+_____	VVG	go	VVG	VERB	acl:relcl	go-ing
+__	TO	_	TO0	PART	mark	_
+___	VV	_	VVI	VERB	xcomp	_
+___	PP	_	PNP	PRON	iobj	_
+__	IN	_	PRP	ADP	case	_
+___	DT	_	AT0	DET	det	_
+_________	NN	_	NN1	NOUN	obl	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="multiple" transition="smooth-shift">
+__	VB	*LOWER*	VBI	AUX	cop	_
+______	JJ	_	AJ0	ADJ	root	_
+___	CC	_	CJC	CCONJ	cc	_
+________	JJ	_	AJ0	ADJ	conj	_
+______	IN	_	PRP	ADP	case	dur-ing
+____	DT	_	DT0	DET	det	_
+_______	NN	_	NN1	NOUN	obl	_
+__	IN	_	PRF	ADP	case	_
+___	DT	_	AT0	DET	det	_
+_______	NN	_	NN1	NOUN	nmod	_
+___	CC	_	CJC	CCONJ	cc	_
+___	PP	_	PNP	PRON	nsubj	_
+___	MD	will	AJ0	AUX	aux	_
+__	VB	_	VBI	AUX	cop	_
+____	JJ	_	AJ0	ADJ	conj	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="smooth-shift">
+_	PP	_	PNP	PRON	nsubj	_
+____	VVP	_	VVB	VERB	root	_
+____	DT	_	DT0	PRON	nsubj	_
+___	VHZ	have	VHZ	AUX	aux	ha-s
+___________	VVN	illuminate	VVN	VERB	ccomp	illuminat-ed
+___	DT	_	AT0	DET	det	_
+_________	NN	_	NN1	NOUN	obj	_
+_	DT	_	AT0	DET	det	_
+___	NN	_	NN1	NOUN	obl:unmarked	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+__	PP	*LOWER*	PNP	PRON	nsubj	_
+__	VBZ	be	VVZ	AUX	cop	_
+___	CD	_	PNI	NUM	root	_
+__	IN	_	PRF	ADP	case	_
+___	DT	_	AT0	DET	det	_
+____	RBR	_	AV0	ADV	advmod	_
+____________	JJ	_	AJ0	ADJ	amod	intimidat-ing
+________	NNS	portion	NN2	NOUN	nmod	portion-s
+__	IN	_	PRF	ADP	case	_
+___	DT	_	AT0	DET	det	_
+_______	NN	_	NN1	NOUN	nmod	_
+_	,	_	PUN	PUNCT	punct	_
+_	PP	_	PNP	PRON	nsubj	_
+__________	VVP	_	VVB	VERB	parataxis	under-stand
+____	DT	_	DT0	PRON	obj	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="sub" transition="smooth-shift">
+__	PP	*LOWER*	PNP	PRON	nsubj	_
+______	MD	_	VM0	AUX	aux	_
+__	VB	_	VBI	AUX	cop	_
+___	DT	_	AT0	DET	det	_
+_______	JJS	easy	AJS	ADJ	amod	_
+____	NN	_	NN1	NOUN	root	_
+______	RB	_	AV0	ADV	advmod	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+___	PP	*LOWER*	PNP	PRON	nsubj	_
+___	VHP	have	VHB	AUX	aux	_
+_______	RB	_	AV0	ADV	advmod	al-ready
+________	VVN	answer	VVN	VERB	root	answer-ed
+_____	DT	this	DT0	DET	det	_
+_________	NNS	question	NN2	NOUN	obj	question-s
+_	,	_	PUN	PUNCT	punct	_
+____	DT	_	DT0	DET	parataxis	_
+__	IN	_	PRF	ADP	case	_
+____	PP	they	PNP	PRON	nmod	_
+_______	JJ	_	DT0	ADJ	amod	_
+_____	NNS	time	NN2	NOUN	nmod:unmarked	time-s
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="sub" transition="null">
+____	DT	*LOWER*	DT0	PRON	nsubj:outer	_
+______	MD	_	VM0	AUX	aux	_
+____	RB	_	AV0	ADV	advmod	_
+__	VB	_	VBI	AUX	cop	_
+_____	IN	_	PRP	SCONJ	mark	_
+_________	VVG	verify	VVG	VERB	root	verify-ing
+____	WP	_	PNQ	PRON	obj	_
+__	PP	_	PNP	PRON	nsubj	_
+_______	RB	_	AV0	ADV	advmod	al-ready
+____	VVP	_	VVB	VERB	acl:relcl	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="other" transition="null">
+_____	VVP	*LOWER*	VVB	VERB	root	_
+___	PP	_	PNP	PRON	obj	_
+___	IN	_	PRP	SCONJ	mark	_
+______	VVG	take	VVG	VERB	advcl	tak-ing
+___	DT	_	AT0	DET	det	_
+____	NN	_	NN1	NOUN	obj	_
+__	TO	_	TO0	PART	mark	_
+____	VV	_	VVI	VERB	advcl	_
+____	DT	_	DT0	PRON	obj	_
+_	,	_	PUN	PUNCT	punct	_
+______	MD	_	VM0	AUX	aux	_
+___	PP	_	PNP	PRON	nsubj	_
+____	VH	_	VHI	VERB	advcl	_
+___	DT	_	DT0	DET	det	_
+_________	NNS	question	NN2	NOUN	obj	question-s
+____	VV	_	VVB	VERB	parataxis	_
+____	JJ	_	AJ0	ADJ	xcomp	_
+__	TO	_	TO0	PART	mark	_
+__	VV	_	VVI	VERB	xcomp	_
+__	PP	I	PNP	PRON	iobj	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+_	PP	_	PNP	PRON	nsubj	_
+__	VBP	be	UNC	AUX	aux	_
+____	RB	_	AV0	ADV	advmod	_
+______	VVG	take	VVG	VERB	root	tak-ing
+________	NNS	request	NN2	NOUN	obj	request-s
+___	IN	_	PRP	ADP	case	_
+___	DT	_	AT0	DET	det	_
+____	JJ	_	ORD	ADJ	amod	_
+_______	NN	_	NN1	NOUN	nmod	edit-ion
+__	IN	_	PRP	ADP	case	_
+____	DT	_	DT0	DET	det	_
+______	NN	_	NN0	NOUN	nmod	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="multiple" transition="continue">
+_	PP	_	PNP	PRON	nsubj	_
+___	VBD	be	VBD	AUX	aux	_
+_______	VVG	lean	VVG	VERB	root	lean-ing
+_______	IN	_	PRP	ADP	case	to-ward-s
+__________	NNS	interview	NN2	NOUN	obl	interview-s
+_	,	_	PUN	PUNCT	punct	_
+___	CC	_	CJC	CCONJ	cc	_
+____	DT	_	DT0	PRON	nsubj	_
+___	MD	_	VM0	AUX	aux	_
+_______	VV	_	VVI	VERB	conj	_
+____	DT	_	DT0	DET	det	_
+__________	NN	_	NN1	NOUN	obj	separat-ion
+__	IN	_	CJS	SCONJ	mark	_
+_____	EX	_	EX0	PRON	expl	_
+___	VBP	be	VBB	VERB	advcl	_
+_______	JJ	_	DT0	ADJ	amod	_
+_______	NNS	format	NN2	NOUN	nsubj	format-s
+___	PP	_	PNP	PRON	nsubj	_
+___	MD	will	AJ0	AUX	aux	_
+___	VV	_	VVB	VERB	acl:relcl	_
+__	IN	_	PRP	ADP	case	_
+____	DT	_	DT0	DET	det	_
+____	NN	_	NN1	NOUN	obl	_
+__	IN	_	PRF	ADP	case	_
+_	DT	_	AT0	DET	det	_
+_______	NN	_	NN1	NOUN	nmod	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+_	PP	_	PNP	PRON	nsubj	_
+___	VHP	have	VHB	AUX	aux	_
+____	RB	_	AV0	ADV	advmod	_
+____	VVN	see	VVN	VERB	root	see-n
+_________	NNS	question	NN2	NOUN	obj	question-s
+_____	IN	_	PRP	ADP	case	_
+___	DT	_	AT0	DET	det	_
+_____________	JJ	_	AJ0	ADJ	amod	psycholog-ic-al
+_____	NNS	eval	NN2	NOUN	nmod	eval-s
+______	RB	_	CJS	ADV	advmod	_
+___	RB	_	AV0	ADV	advmod	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+</text>

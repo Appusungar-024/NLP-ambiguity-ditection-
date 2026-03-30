@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ambiguity Detection - NLP Analyzer</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <h1>🔍 Ambiguity Detector</h1>
+                <p>Identify ambiguous parts in your text</p>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Input Section -->
+            <section class="input-section">
+                <div class="input-group">
+                    <label for="input-text">Enter your sentence:</label>
+                    <textarea 
+                        id="input-text" 
+                        placeholder="Type a sentence... e.g., 'I saw the man with the telescope'"
+                        rows="3"
+                    ></textarea>
+                </div>
+
+                <div class="button-group">
+                    <button id="analyze-btn" class="btn btn-primary">
+                        <span class="btn-icon">⚡</span> Analyze
+                    </button>
+                    <button id="clear-btn" class="btn btn-secondary">Clear</button>
+                    <button id="example-btn" class="btn btn-tertiary">📚 Load Example</button>
+                </div>
+            </section>
+
+            <!-- Loading State -->
+            <div id="loading" class="loading hidden">
+                <div class="spinner"></div>
+                <p>Analyzing text...</p>
+            </div>
+
+            <!-- Results Section -->
+            <section id="results-section" class="results-section hidden">
+                <!-- Highlighted Text -->
+                <div class="results-card">
+                    <h2>Highlighted Result</h2>
+                    <div id="highlighted-text" class="highlighted-text"></div>
+                </div>
+
+                <!-- Ambiguity Types -->
+                <div class="results-card" id="types-card">
+                    <h2>🏷️ Ambiguity Types Detected</h2>
+                    <div id="ambiguity-types-list" class="type-tags"></div>
+                </div>
+
+                <!-- Ambiguities List -->
+                <div class="results-card">
+                    <h2>🔍 Detected Ambiguities</h2>
+                    <div id="ambiguities-list" class="ambiguities-list"></div>
+                    <div id="no-ambiguities" class="no-ambiguities">
+                        ✓ No ambiguities detected - text is clear!
+                    </div>
+                </div>
+
+                <!-- Explanations Section -->
+                <div class="results-card" id="explanations-card">
+                    <h2>📝 Detailed Explanations</h2>
+                    <div id="explanations-list" class="explanations-list"></div>
+                </div>
+
+                <!-- Suggestions Section -->
+                <div class="results-card" id="suggestions-card">
+                    <h2>💡 Suggestions for Improvement</h2>
+                    <div id="suggestions-list" class="suggestions-list"></div>
+                </div>
+
+                <!-- BERT Semantic Analysis -->
+                <div class="results-card" id="bert-card">
+                    <h2>🧠 BERT Semantic Ambiguity Analysis</h2>
+                    <div id="bert-analysis" class="bert-analysis"></div>
+                </div>
+
+                <!-- Overall Score -->
+                <div class="results-card score-card">
+                    <h3>📊 Overall Ambiguity Score</h3>
+                    <div class="score-display">
+                        <div class="score-bar">
+                            <div id="score-fill" class="score-fill"></div>
+                        </div>
+                        <div class="score-text">
+                            <span id="score-value">0.0</span> / 1.0
+                        </div>
+                    </div>
+                    <p class="score-description" id="score-description">No analysis yet</p>
+                </div>
+            </section>
+
+            <!-- Error Section -->
+            <section id="error-section" class="error-section hidden">
+                <div class="error-card">
+                    <h3>⚠️ Error</h3>
+                    <p id="error-message"></p>
+                </div>
+            </section>
+
+            <!-- Examples Section -->
+            <section class="examples-section">
+                <h3>💡 Common Ambiguities</h3>
+                <div id="examples-grid" class="examples-grid"></div>
+            </section>
+        </main>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <p>Powered by BERT Semantic Analyzer & Dependency Parsing</p>
+        </footer>
+    </div>
+
+    <!-- Info Modal -->
+    <div id="info-modal" class="modal hidden">
+        <div class="modal-content">
+            <button class="modal-close">&times;</button>
+            <h2 id="modal-title">Ambiguity Details</h2>
+            <div id="modal-body"></div>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

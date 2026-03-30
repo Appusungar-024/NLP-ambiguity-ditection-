@@ -1,0 +1,1072 @@
+<text id="GUM_reddit_introverts" partition="train" author="Reddit community (see URL)" dateCollected="2019-09-11" dateCreated="2019-06-08" dateModified="2019-06-08" shortTitle="introverts" sourceURL="https://www.reddit.com/r/AskReddit/comments/by820m/introverts_of_reddit_what_are_the_most_annoying/?sort=top" speakerCount="5" speakerList="#DackieTackie, #Kreys678, #Hlodvigovich, #OldschoolSysadmin, #pointlessarguments3, #weirdstuffbud, #17684Throwaway, #It__" title="Introverts of Reddit, what are the most annoying things extroverts do?" type="reddit" summary1="(human1) Some introverts share their experiences on Reddit and discuss whether trying to be more extroverted is possible or helpful for dating and having great life experiences, or is it just exhausting when social activities end up being draining." summary2="(claude-3-5-sonnet-20241022) A Reddit thread discusses how introverts and extroverts differ in social situations, with introverts sharing their experiences of navigating parties, dating, and social interactions while managing their limited “social battery” energy levels." summary3="(gpt4o) In a discussion on Reddit, introverts express frustration with extroverts who attempt to make them more outgoing, emphasizing that while many introverts can develop strong social skills and enjoy social situations, they typically find such interactions draining and require time to recharge, contrary to the assumption that introversion equates to having poor people skills." summary4="(Llama-3.2-3B-Instruct) A Reddit user shares their experience as an introvert who has successfully dated and socialized, but acknowledges that being an introvert can be misunderstood, with many assuming that introverts are poor at people skills or are not social; However, they argue that people skills are learned and maintained, and that introverts can be just as fun and charismatic as extroverts." summary5="(Qwen2.5-7B-Instruct) Introverts share their experiences and opinions on how forcing introverts to behave more extrovertedly can be draining, but acknowledge that with effort, introverts can develop better social skills and participate in extroverted activities, which can lead to fulfilling life experiences.">
+<head>
+<s type="wh" transition="establishment">
+__________	NNS	introvert	NN2	NOUN	vocative	Introvert-s
+__	IN	_	PRF	ADP	case	_
+______	NP	_	NP0	PROPN	nmod	_
+_	,	_	PUN	PUNCT	punct	_
+____	WP	_	PNQ	PRON	nsubj	_
+___	VBP	be	VBB	AUX	cop	_
+___	DT	_	AT0	DET	det	_
+____	RBS	_	AV0	ADV	advmod	_
+________	JJ	_	AJ0	ADJ	amod	annoy-ing
+______	NNS	thing	NN2	NOUN	root	thing-s
+__________	NNS	extrovert	NN2	NOUN	nsubj	extro-vert-s
+__	VVP	_	VD	VERB	acl:relcl	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+</head>
+<p>
+<s type="wh" transition="establishment">
+__________	NNS	introvert	NN2	NOUN	vocative	Introvert-s
+__	IN	_	PRF	ADP	case	_
+______	NP	_	NP0	PROPN	nmod	_
+_	,	_	PUN	PUNCT	punct	_
+____	WP	_	PNQ	PRON	nsubj	_
+___	VBP	be	VBB	AUX	cop	_
+___	DT	_	AT0	DET	det	_
+____	RBS	_	AV0	ADV	advmod	_
+________	JJ	_	AJ0	ADJ	amod	annoy-ing
+______	NNS	thing	NN2	NOUN	root	thing-s
+__________	NNS	extrovert	NN2	NOUN	nsubj	extro-vert-s
+__	VVP	_	VD	VERB	acl:relcl	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+</p>
+<sp who="#krys678" whom="#DackieTackie">
+<p>
+<s type="frag" transition="zero">
+___	VV	*LOWER*	VVB	VERB	root	_
+__	TO	_	TO0	PART	mark	_
+_____	VV	_	VVI	VERB	xcomp	_
+___	PP	_	PNP	PRON	obj	_
+__	TO	_	TO0	PART	mark	_
+__	VB	_	VBI	AUX	cop	_
+___________	JJ	_	AJ0	ADJ	xcomp	extro-vert-ed
+</s>
+</p>
+</sp>
+<sp who="#Hlodvigovich" whom="#krys678">
+<p>
+<s type="sub" transition="null">
+_____	DT	*LOWER*	AT0	DET	det	_
+<w>
+____	NN	_	NN1	NOUN	compound	_
+_	HYPH	_	PUN	PUNCT	punct	_
+____	NN	_	NN1	NOUN	compound	_
+</w>
+_______	NN	_	NN1	NOUN	nsubj:pass	_
+_____	IN	_	PRP	ADP	case	_
+___	WRB	_	AVQ	ADV	nmod	_
+__	TO	_	TO0	PART	mark	_
+____	VV	_	VVI	VERB	acl	_
+____	WRB	_	CJS	ADV	advmod	_
+___	PP	_	PNP	PRON	nsubj	_
+___	VBP	be	VBB	AUX	cop	_
+__	DT	a	AT0	DET	det	_
+_________	NN	_	NN1	NOUN	advcl	intro-vert
+___	MD	_	VM0	AUX	aux	_
+__	VB	_	VBI	AUX	aux:pass	_
+__________	VVN	summarize	VVN	VERB	root	summar-iz-ed
+__	IN	_	PRP	ADP	case	_
+<q>
+_	``	_	PUQ	PUNCT	punct	_
+__	VB	_	VBI	AUX	cop	_
+__	DT	a	AT0	DET	det	_
+_________	NN	_	NN1	NOUN	advcl	extro-vert
+_	''	_	PUQ	PUNCT	punct	_
+_	SENT	_	PUN	PUNCT	punct	_
+</q>
+</s>
+</p>
+</sp>
+<sp who="#OldschoolSysadmin" whom="#Hlodvigovich">
+<p>
+<s type="other" transition="null">
+__	VBP	be	VBB	AUX	cop	_
+_________	NN	_	NN1	NOUN	root	intro-vert
+_	,	_	PUN	PUNCT	punct	_
+____	VHP	_	VHB	AUX	aux	_
+____________	RB	_	AV0	ADV	advmod	success-ful-ly
+_____	VVN	date	VVN	VERB	parataxis	dat-ed
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="multiple" transition="establishment">
+__	PP	*LOWER*	PNP	PRON	expl	_
+__	IN	_	PRF	ADP	advmod	_
+______	NN	_	NN1	NOUN	fixed	_
+_____	VVZ	help	VVZ	VERB	root	help-s
+__	TO	_	TO0	PART	mark	_
+__	VB	_	VBI	AUX	cop	_
+__________	JJ	_	AJ0	ADJ	csubj	attract-ive
+_	,	_	PUN	PUNCT	punct	_
+___	CC	_	CJC	CCONJ	cc	_
+___	DT	_	AT0	DET	det	_
+_____	JJ	_	AJ0	ADJ	amod	_
+_____	NN	_	NN1	NOUN	nsubj:outer	_
+____	WDT	_	CJT	PRON	nsubj	_
+______	RB	_	AV0	ADV	advmod	real-ly
+_____	VVZ	work	NN0	VERB	acl:relcl	work-s
+___	IN	_	PRP	ADP	case	_
+__	PP	I	PNP	PRON	obl	_
+_	,	_	PUN	PUNCT	punct	_
+__	VBZ	be	VBZ	AUX	cop	_
+____	RB	_	AV0	ADV	advmod	_
+__	TO	_	TO0	PART	mark	_
+______	VV	_	VVI	VERB	conj	_
+____	IN/that	_	DT0	SCONJ	mark	_
+______	VVG	date	VVG	VERB	csubj	dat-ing
+_____	VVZ	take	VVZ	VERB	ccomp	take-s
+______	NN	_	NN1	NOUN	obj	_
+_	,	_	PUN	PUNCT	punct	_
+___	CC	_	CJC	CCONJ	cc	_
+____	MD	_	NN1	AUX	aux	_
+____	VV	_	VVB	VERB	conj	_
+__	PP	I	PNP	PRON	obj	_
+___	RP	_	AVP	ADP	compound:prt	_
+____	RB	_	AV0	ADV	advmod	_
+__	IN	_	CJS	SCONJ	mark	_
+_	PP	_	PNP	PRON	nsubj	_
+____	VHP	_	VHB	VERB	advcl	_
+_	DT	_	AT0	DET	det	_
+____	JJ	_	AJ0	ADJ	amod	_
+____	NN	_	NN1	NOUN	obj	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+___	CC	*LOWER*	CJC	CCONJ	cc	_
+____	DT	_	DT0	PRON	nsubj	_
+__	VBZ	be	VBZ	AUX	cop	_
+____	JJ	_	AJ0	ADJ	root	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+___	PP	*LOWER*	PNP	PRON	nsubj	_
+__	VVP	_	VD	AUX	aux	_
+___	RB	not	XX0	PART	advmod	_
+__	VV	_	VVI	VERB	root	_
+__	IN	_	PRP	ADP	case	_
+___	DT	_	AT0	DET	det	_
+___	NN	_	NN1	NOUN	obl	_
+___	CC	_	CJC	CCONJ	cc	_
+______	VVP	_	VVB	VERB	conj	_
+___	RB	_	XX0	PART	advmod	_
+__	TO	_	TO0	PART	mark	_
+__	VB	_	VBI	AUX	cop	_
+_____	JJ	_	AJ0	ADJ	xcomp	tir-ed
+__________	RB	_	AV0	ADV	advmod	after-wards
+_	,	_	PUN	PUNCT	punct	_
+___	CC	_	CJC	CCONJ	cc	_
+____	DT	_	DT0	PRON	nsubj	_
+____	VVZ	do	VDZ	AUX	aux	doe-s
+___	RB	not	XX0	PART	advmod	_
+____	VV	_	VVI	VERB	conj	_
+____	IN/that	_	CJT	SCONJ	mark	_
+___	PP	_	PNP	PRON	nsubj	_
+__	MD	can	VM0	AUX	aux	_
+___	RB	not	XX0	PART	advmod	_
+_____	VV	_	VVI	VERB	ccomp	en-joy
+_______	VVG	work	VVG	VERB	xcomp	work-ing
+___	RP	_	AVP	ADP	compound:prt	_
+</s>
+</p>
+</sp>
+<sp who="#weirdstuffbud" whom="#OldschoolSysadmin">
+<p>
+<s type="multiple" transition="null">
+______	VVN	agree	VVN	VERB	root	Agre-ed
+_	:	_	PUN	PUNCT	punct	_
+__	VBP	be	VBB	AUX	cop	_
+_	DT	_	AT0	DET	det	_
+_______	JJ	_	AJ0	ADJ	amod	_
+_________	NN	_	NN1	NOUN	parataxis	intro-vert
+_	,	_	PUN	PUNCT	punct	_
+___	CC	_	CJC	CCONJ	cc	_
+__	PP$	_	DPS	PRON	nmod:poss	_
+____	NN	_	NN1	NOUN	nsubj	_
+_____	MD	_	VM0	AUX	aux	_
+__	VB	_	VBI	AUX	cop	_
+___	RB	_	NN1	ADV	advmod	_
+____	RBR	_	AV0	ADV	advmod	_
+___________	JJ	_	AJ0	ADJ	conj	full-fill-ing
+___	CC	_	CJC	CCONJ	cc	_
+___	RB	_	NN1	ADV	advmod	_
+____	RBR	_	AV0	ADV	advmod	_
+____	JJ	_	AJ0	ADJ	conj	_
+____	IN	_	PRP	ADP	case	_
+_____	JJ	_	AJ0	ADJ	amod	_
+____	NN	_	NN1	NOUN	compound	_
+___________	NNS	experience	NN2	NOUN	obl	experience-s
+__	IN	_	PRP	ADP	case	_
+___	DT	_	AT0	DET	det	_
+_____	NN	_	NN1	NOUN	obl	_
+__	IN	_	PRF	ADP	case	_
+_______	NNS	friend	NN2	NOUN	nmod	friend-s
+_	,	_	PUN	PUNCT	punct	_
+________	VVG	party	VVG	VERB	conj	party-ing
+_	,	_	PUN	PUNCT	punct	_
+_____	NNS	girl	NN2	NOUN	conj	girl-s
+_	,	_	PUN	PUNCT	punct	_
+___	FW	etc.	UNC	NOUN	conj	_
+__	IN	_	CJS	SCONJ	mark	_
+_	PP	_	PNP	PRON	nsubj	_
+___	VHD	have	VHD	AUX	aux	_
+___	RB	not	XX0	PART	advmod	_
+____	VVN	make	VVN	VERB	advcl	_
+_	DT	_	AT0	DET	det	_
+_________	JJ	_	AJ0	ADJ	amod	_
+______	NN	_	NN1	NOUN	obj	_
+___	VV	_	VVB	VERB	acl	_
+____	JJ	_	AJ0	ADJ	xcomp	_
+__	IN	_	PRP	SCONJ	mark	_
+________	VVG	behave	VVG	VERB	advcl	be-hav-ing
+__	IN	_	PRP	ADP	case	_
+_	DT	_	AT0	DET	det	_
+____	RBR	_	AV0	ADV	advmod	_
+___________	JJ	_	AJ0	ADJ	amod	extro-vert-ed
+______	NN	_	NN1	NOUN	obl	_
+______	RB	_	DT0	ADV	advmod	_
+__	IN	_	PRF	ADP	case	_
+___	DT	_	AT0	DET	det	_
+____	NN	_	NN1	NOUN	obl	_
+__	TO	_	TO0	PART	mark	_
+____	VH	_	VHI	VERB	advcl	_
+___	DT	_	AT0	DET	det	_
+___________	NNS	experience	NN2	NOUN	obj	experience-s
+_	PP	_	PNP	PRON	nsubj	_
+____	VVP	_	VVB	VERB	acl:relcl	_
+__	TO	_	TO0	PART	mark	_
+__	VB	_	VBI	AUX	cop	_
+_	DT	_	AT0	DET	det	_
+____	NN	_	NN1	NOUN	xcomp	_
+__	IN	_	PRF	ADP	case	_
+__	PP$	_	DPS	PRON	nmod:poss	_
+____	NN	_	NN1	NOUN	nmod	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="establishment">
+_________	RB	*LOWER*	AV0	ADV	advmod	Obvious-ly
+_________	JJ	_	AJ0	ADJ	amod	differ-ent
+______	NNS	person	NN0	NOUN	nsubj	_
+____	VHP	_	VHB	VERB	root	_
+_________	JJ	_	AJ0	ADJ	amod	differ-ent
+__________	NNS	priority	NN2	NOUN	obj	prior-itie-s
+_	,	_	PUN	PUNCT	punct	_
+___	CC	_	CJC	CCONJ	cc	_
+__	PP	_	PNP	PRON	nsubj	_
+__	VBZ	be	VBZ	AUX	cop	_
+___	RB	not	XX0	PART	advmod	_
+_________	NN	_	NN1	PRON	conj	some-thing
+____	WDT	_	CJT	PRON	nsubj	_
+____	MD	_	VM0	AUX	aux	_
+____	VV	_	VVI	VERB	acl:relcl	_
+__	CC	_	CJC	CCONJ	cc	_
+__	VB	_	VBI	AUX	cop	_
+________	JJ	_	AJ0	ADJ	conj	_
+___	IN	_	PRP	ADP	case	_
+________	NN	_	NN1	PRON	obl	every-one
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+___	CC	*LOWER*	CJC	CCONJ	cc	_
+_	PP	_	PNP	PRON	nsubj	_
+____	VVP	_	VVB	VERB	root	_
+__	TO	_	TO0	PART	mark	_
+_____	VV	_	VVI	VERB	xcomp	_
+__	IN	_	PRF	SCONJ	mark	_
+_______	NN	_	NN1	PRON	nsubj	some-one
+____	RB	_	AV0	ADV	advmod	_
+_____	VBG	be	VBG	VERB	advcl	be-ing
+____	RP	_	AVP	ADP	compound:prt	_
+_	,	_	PUN	PUNCT	punct	_
+<q>
+_	``	_	PUQ	PUNCT	punct	_
+_	PP	_	PNP	PRON	nsubj	_
+__	VBP	be	VBB	AUX	cop	_
+__	DT	a	AT0	DET	det	_
+_________	NN	_	NN1	NOUN	ccomp	intro-vert
+_	,	_	PUN	PUNCT	punct	_
+___	CC	_	CJC	CCONJ	cc	_
+_________	RB	_	AV0	ADV	advmod	_
+_	PP	_	PNP	PRON	nsubj	_
+____	VVP	_	VVB	VERB	conj	_
+__	TO	_	TO0	PART	mark	_
+______	VV	_	VVI	VERB	xcomp	_
+____	IN/that	_	CJT	SCONJ	mark	_
+_	PP	_	PNP	PRON	nsubj	_
+____	MD	_	VM0	AUX	aux	_
+_____	RB	_	AV0	ADV	advmod	_
+____	VH	_	VHI	VERB	ccomp	_
+___	DT	_	AT0	DET	det	_
+__________	NN	_	NN1	NOUN	obj	_
+__	IN	_	PRF	ADP	case	_
+_____	VBG	be	VBG	AUX	cop	be-ing
+_	DT	_	AT0	DET	det	_
+___________	JJ	_	AJ0	ADJ	amod	charismat-ic
+___	JJ	_	AJ0	ADJ	amod	_
+______	NN	_	NN1	NOUN	acl	_
+___	WP	_	PNQ	PRON	nsubj	_
+__	VBZ	be	VBZ	AUX	cop	_
+____	JJ	_	AJ0	ADJ	acl:relcl	_
+____	IN	_	PRP	ADP	case	_
+______	NNS	person	NN0	NOUN	obl	_
+___	CC	_	CJC	CCONJ	cc	_
+___	DT	_	AT0	DET	det	_
+________	JJ	_	AJ0	ADJ	amod	oppos-ite
+___	NN	_	NN1	NOUN	conj	_
+_	SENT	_	PUN	PUNCT	punct	_
+_	''	_	PUQ	PUNCT	punct	_
+</q>
+_	,	_	PUN	PUNCT	punct	_
+___	CC	_	CJC	CCONJ	cc	_
+___	RB	_	XX0	PART	advmod	_
+____	RB	_	AV0	ADV	advmod	_
+______	VVG	try	VVG	VERB	conj	try-ing
+__	TO	_	TO0	PART	mark	_
+____	VV	_	VVI	VERB	xcomp	_
+_____	DT	that	DT0	DET	det	_
+______	NNS	thing	NN2	NOUN	obj	thing-s
+______	VV	_	VVI	VERB	xcomp	happ-en
+_	,	_	PUN	PUNCT	punct	_
+__	IN	_	CJS	SCONJ	mark	_
+____	DT	_	DT0	PRON	nsubj	_
+__	VBZ	be	VBZ	AUX	cop	_
+_________	NN	_	NN1	PRON	advcl	some-thing
+____	PP	_	PNP	PRON	nsubj	_
+_____	MD	_	VM0	AUX	aux	_
+____	VV	_	VVI	VERB	acl:relcl	_
+__	IN	_	PRP	ADP	case	_
+_____	PP$	_	DPS	PRON	nmod:poss	_
+____	NN	_	NN1	NOUN	obl	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="null">
+__	IN	*LOWER*	PRP	ADP	case	_
+_____	NNS	term	NN2	NOUN	obl	term-s
+__	IN	_	PRF	ADP	case	_
+______	NN	_	NN1	NOUN	nmod	dat-ing
+_	,	_	PUN	PUNCT	punct	_
+__	PP	_	PNP	PRON	expl	_
+__	VBZ	be	VBZ	AUX	cop	_
+____	JJ	_	AJ0	ADJ	root	_
+__	TO	_	TO0	PART	mark	_
+____	VV	_	VVI	VERB	csubj	_
+_______	NN	_	NN1	PRON	obj	some-one
+_	,	_	PUN	PUNCT	punct	_
+__	IN	_	CJS	SCONJ	mark	_
+_	PP	_	PNP	PRON	nsubj	_
+____	VHP	_	VHB	AUX	aux	_
+____	VBN	be	VBN	AUX	cop	_
+_________	JJ	_	AJ0	ADJ	advcl	fortun-ate
+______	RB	_	AV0	ADV	advmod	_
+__	TO	_	TO0	PART	advcl	_
+_	,	_	PUN	PUNCT	punct	_
+___	WP	_	PNQ	PRON	nsubj	_
+__	VBZ	be	VBZ	AUX	cop	_
+__	IN	_	PRP	ADP	case	_
+___	DT	_	AT0	DET	det	_
+____	JJ	_	DT0	ADJ	amod	_
+____	NN	_	NN1	NOUN	acl:relcl	_
+__	IN	_	PRP	ADP	case	_
+_____	NNS	term	NN2	NOUN	nmod	term-s
+__	IN	_	PRF	SCONJ	mark	_
+_____	VBG	be	VBG	AUX	cop	be-ing
+__	DT	a	AT0	DET	det	_
+_________	NN	_	NN1	NOUN	acl	intro-vert
+_	,	_	PUN	PUNCT	punct	_
+___	WP	_	PNQ	PRON	nsubj	_
+____	RB	_	AV0	ADV	advmod	_
+_____	VVZ	like	VVZ	VERB	acl:relcl	like-s
+__	TO	_	TO0	PART	mark	_
+_________	RB	_	AV0	ADV	advmod	sometime-s
+__	VB	_	VBI	AUX	cop	_
+______	JJ	_	AJ0	ADJ	xcomp	soci-al
+_	,	_	PUN	PUNCT	punct	_
+_____	VV	_	NN1	VERB	conj	_
+_	,	_	PUN	PUNCT	punct	_
+____	FW	_	UNC	NOUN	conj	_
+</s>
+<s type="sub" transition="establishment">
+___	CC	*LOWER*	CJC	CCONJ	cc	_
+_	PP	_	PNP	PRON	nsubj	_
+_____	MD	_	VM0	AUX	aux	_
+___	RB	not	XX0	PART	advmod	_
+____	VH	_	VHI	AUX	aux	_
+_____	VVN	find	VVN	VERB	root	_
+____	DT	_	CJT	DET	det	_
+______	NN	_	NN1	NOUN	obj	_
+__	IN	_	CJS	SCONJ	mark	_
+__	IN	_	PRP	ADP	case	_
+___	DT	_	AT0	DET	det	_
+____	NN	_	NN1	NOUN	obl	_
+____	IN/that	_	CJT	SCONJ	mark	_
+__	PP	_	PNP	PRON	nsubj	_
+___	VVD	meet	VVD	VERB	acl:relcl	_
+_	PP	_	PNP	PRON	nsubj	_
+___	VHD	have	VHD	AUX	aux	_
+___	RB	not	XX0	PART	advmod	_
+____	VBN	be	VBN	AUX	aux	_
+______	VVG	make	VVG	VERB	advcl	mak-ing
+_	DT	_	AT0	DET	det	_
+____	JJ	_	AJ0	ADJ	amod	_
+______	NN	_	NN1	NOUN	obj	_
+__	TO	_	TO0	PART	mark	_
+__	VB	_	VBI	AUX	cop	_
+________	JJ	_	AJ0	ADJ	acl	out-go-ing
+___	CC	_	CJC	CCONJ	cc	_
+___	JJ	_	AJ0	ADJ	conj	_
+___	CC	_	CJC	CCONJ	cc	_
+__	RB	_	AV0	ADV	advmod	_
+__	RB	_	AVP	ADV	conj	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#pointlessarguments3" whom="#weirdstuffbud">
+<p>
+<s type="decl" transition="zero">
+_	PP	_	PNP	PRON	nsubj	_
+_____	VVP	_	VVB	VERB	root	_
+___	DT	_	AT0	DET	det	_
+___	JJ	_	AJ0	ADJ	amod	_
+_____	NN	_	NN1	NOUN	nsubj:outer	_
+__	VBZ	be	VBZ	AUX	cop	_
+______	NNS	person	NN0	NOUN	nsubj	_
+______	VVP	_	VVB	VERB	ccomp	_
+_________	NN	_	NN1	NOUN	nsubj	intro-vert
+_	SYM	_	UNC	SYM	ccomp	_
+____	JJ	_	AJ0	ADJ	amod	_
+______	NNS	person	NN0	NOUN	compound	_
+______	NNS	skill	NN2	NOUN	xcomp	skill-s
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+_____	EX	*LOWER*	EX0	PRON	expl	_
+___	VBP	be	VBB	VERB	root	_
+_	DT	_	AT0	DET	det	_
+___	NN	_	NN1	NOUN	nsubj	_
+__	IN	_	PRF	ADP	case	_
+__________	NNS	introvert	NN2	NOUN	nmod	introvert-s
+____	WDT	_	CJT	PRON	nsubj	_
+___	VBP	be	VBB	AUX	cop	_
+_____	RB	_	AJ0	ADV	advmod	_
+___	JJ	_	AJ0	ADJ	amod	_
+___	CC	_	CJC	CCONJ	cc	_
+____	JJ	_	AJ0	ADJ	conj	_
+______	NNS	person	NN0	NOUN	acl:relcl	_
+____	WDT	_	CJT	PRON	nsubj	_
+___	MD	_	VM0	AUX	aux	_
+____	VV	_	VVI	VERB	acl:relcl	_
+___	CC	_	CJC	CCONJ	cc	_
+__	VVP	_	VD	VERB	conj	_
+________	WP	_	PNQ	PRON	obj	what-ever
+___	CC	_	CJC	CCONJ	cc	_
+______	NN	_	NN1	NOUN	conj	_
+__	IN	_	PRF	ADP	case	_
+__________	NNS	extrovert	NN2	NOUN	nmod	extro-vert-s
+____	WDT	_	CJT	PRON	nsubj	_
+___	VBP	be	VBB	AUX	cop	_
+<sic ana="awkward">
+______	NN	awkward	NN1	NOUN	acl:relcl	_
+</sic>
+___	CC	_	CJC	CCONJ	cc	_
+___	VV	_	VVB	VERB	conj	_
+_______	JJ	_	AJ0	ADJ	xcomp	_
+__	IN	_	PRP	ADP	case	_
+______	JJ	_	AJ0	ADJ	amod	soci-al
+__________	NNS	situation	NN2	NOUN	obl	situat-ion-s
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+___	DT	*LOWER*	AT0	DET	det	_
+__________	NN	_	NN1	NOUN	nsubj:outer	differ-ence
+__	VBZ	be	VBZ	AUX	cop	_
+<sic ana="whether">
+______	IN	whether	PRP	SCONJ	mark	_
+</sic>
+___	PP	_	PNP	PRON	nsubj	_
+______	VVP	_	VVB	VERB	root	be-come
+_______	VVN	drain	VVN	VERB	xcomp	drain-ed
+__	CC	_	CJC	CCONJ	cc	_
+_________	VVN	energize	VVN	VERB	conj	energ-iz-ed
+____	WRB	_	CJS	ADV	advmod	_
+_____	VVG	do	VDG	VERB	advcl	do-ing
+__	PP	_	PNP	PRON	obj	_
+</s>
+</p>
+</sp>
+<sp who="#17684Throwaway" whom="#pointlessarguments3">
+<p>
+<s type="decl" transition="zero">
+__	TO	*LOWER*	TO0	PART	mark	_
+__	VB	_	VBI	AUX	cop	_
+____	JJ	_	AJ0	ADJ	advcl	_
+_	,	_	PUN	PUNCT	punct	_
+__	RB	_	CJS	ADV	advmod	_
+___	RB	_	AV0	ADV	advmod	_
+__	IN	_	CJS	SCONJ	mark	_
+__	PP$	_	DPS	PRON	nmod:poss	_
+___	JJ	_	DT0	ADJ	amod	_
+__________	NN	_	NN1	NOUN	nsubj	_
+____	VVZ	go	VVZ	VERB	advcl	goe-s
+_	,	_	PUN	PUNCT	punct	_
+____	DT	_	DT0	DET	det	_
+__________	NN	_	NN1	NOUN	nsubj	assumpt-ion
+__	VBZ	be	VBZ	AUX	cop	_
+___	RB	_	XX0	PART	advmod	_
+________	RB	_	AV0	ADV	advmod	entire-ly
+_______	IN	_	PRP	ADP	case	with-out
+______	NNS	merit	NN2	NOUN	root	merit-s
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="multiple" transition="null">
+______	NNS	person	NN0	NOUN	compound	_
+______	NNS	skill	NN2	NOUN	nsubj	skill-s
+___	VBP	be	VBB	AUX	cop	_
+______	NNS	skill	NN2	NOUN	root	skill-s
+_	,	_	PUN	PUNCT	punct	_
+_______	VVN	learn	VVN	VERB	acl	learn-ed
+___	CC	_	CJC	CCONJ	cc	_
+__________	VVN	maintain	VVN	VERB	conj	maintain-ed
+_______	IN	_	PRP	ADP	case	_
+___	NN	_	NN1	NOUN	obl	_
+_	:	_	PUN	PUNCT	punct	_
+__	VB	_	VBI	AUX	cop	_
+___________	JJ	_	AJ0	ADJ	parataxis	introvert-ed
+______	RB	_	AV0	ADV	advmod	_
+____	IN/that	_	CJT	SCONJ	mark	_
+___	PP	_	PNP	PRON	nsubj	_
+__	VVP	_	VD	AUX	aux	_
+___	RB	not	XX0	PART	advmod	_
+__	VV	_	VDI	VERB	ccomp	_
+______	DT	_	DT0	DET	obj	_
+__	IN	_	PRF	ADP	case	_
+_____	DT	this	DT0	PRON	nmod	_
+___	CC	_	CJC	CCONJ	cc	_
+__	IN	_	PRP	ADP	case	_
+____	DT	_	DT0	DET	det	_
+_____	NN	_	NN1	NOUN	obl	_
+____	PP$	_	DPS	PRON	nmod:poss	_
+______	JJ	_	AJ0	ADJ	amod	soci-al
+______	NNS	skill	NN2	NOUN	nsubj	skill-s
+___	VBP	be	VBB	AUX	aux	_
+________	RB	_	AV0	ADV	advmod	probab-ly
+_____	VVG	go	VVG	VERB	conj	go-ing
+__	TO	_	TO0	PART	mark	_
+______	VV	_	VVI	VERB	xcomp	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="multiple" transition="null">
+_________	RB	*LOWER*	AV0	ADV	advmod	Obvious-ly
+___	RB	_	XX0	PART	advmod	_
+____	JJ	_	AJ0	ADJ	root	_
+___	IN	_	PRP	ADP	case	_
+_____	DT	_	AT0	DET	det	_
+_________	NN	_	NN1	NOUN	obl	intro-vert
+___	CC	_	CJC	CCONJ	cc	_
+_	PP	_	PNP	PRON	nsubj	_
+____	VVP	_	VVB	VERB	conj	_
+____	IN	_	PRP	SCONJ	mark	_
+___	DT	_	AT0	DET	det	_
+__________	NN	_	NN1	NOUN	nsubj	assumpt-ion
+____	IN/that	_	CJT	SCONJ	mark	_
+_____	DT	_	AT0	DET	det	_
+_________	NN	_	NN1	NOUN	nsubj	intro-vert
+__	VBZ	be	VBZ	AUX	cop	_
+________	RB	_	AV0	ADV	advmod	secret-ly
+________	RB	_	AV0	ADV	advmod	social-ly
+_______	JJ	_	AJ0	ADJ	acl	awe-some
+_	,	_	PUN	PUNCT	punct	_
+_____	JJ	_	AJ0	ADJ	conj	funn-y
+___	CC	_	CJC	CCONJ	cc	_
+_______	JJ	_	AJ0	ADJ	amod	over-all
+___	DT	_	AT0	DET	det	_
+____	NN	_	NN1	NOUN	conj	_
+__	IN	_	PRF	ADP	case	_
+___	DT	_	AT0	DET	det	_
+_____	NN	_	NN1	NOUN	nmod	_
+___	CC	_	CJC	CCONJ	cc	_
+____	RB	_	AV0	ADV	advmod	_
+____	VVZ	do	VDZ	AUX	aux	doe-s
+___	RB	not	XX0	PART	advmod	_
+____	VV	_	VVI	VERB	conj	_
+__	TO	_	TO0	PART	xcomp	_
+_____	RB	_	NN1	ADV	advmod	_
+___	RB	_	AV0	ADV	advmod	_
+___	MD	_	VM0	AUX	aux	_
+__	VB	_	VBI	AUX	aux	_
+________	JJ	_	AJ0	ADJ	advcl	damag-ing
+__	RB	_	CJS	ADV	advmod	_
+____	RB	_	AV0	ADV	flat	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="other" transition="establishment">
+______	NN	*LOWER*	NN1	NOUN	root	_
+_	:	_	PUN	PUNCT	punct	_
+__	VBP	be	VBB	AUX	cop	_
+<hi rend="strikethrough">
+_______	JJ	_	AJ0	ADJ	amod	awk-ward
+_________	NN	_	NN1	NOUN	compound	intro-vert
+________	NN	_	NN1	NOUN	dep	reddit-or
+_	SENT	_	PUN	PUNCT	punct	_
+</hi>
+</s>
+</p>
+</sp>
+<sp who="#lt__" whom="#17684Throwaway">
+<p>
+<s type="decl" transition="zero">
+__________	NNS	introvert	NN2	NOUN	nsubj	Introvert-s
+___	VBP	be	VBB	AUX	cop	_
+_________	JJ	_	AJ0	ADJ	root	differ-ent
+_______	IN	_	PRP	ADP	case	be-tween
+__________	PP	_	PNP	PRON	obl	them-selve-s
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+___	IN	*LOWER*	PRP	ADP	case	_
+_______	NN	_	NN1	NOUN	obl	_
+_	PP	_	PNP	PRON	nsubj	_
+________	VVP	_	VVB	VERB	root	_
+______	PP	_	PNP	PRON	obj	my-self
+__	DT	a	AT0	DET	det	_
+_________	NN	_	NN1	NOUN	xcomp	intro-vert
+____	IN	_	PRP	ADP	case	_
+<q>
+_	``	_	PUQ	PUNCT	punct	_
+_____	JJ	_	AJ0	ADJ	amod	_
+_____	NN	_	NN1	NOUN	compound	_
+____________	NN	_	NN1	NOUN	compound	extrover-sion
+____________	NNS	capability	NN2	NOUN	nmod	capabil-itie-s
+_	''	_	PUQ	PUNCT	punct	_
+_	SENT	_	PUN	PUNCT	punct	_
+</q>
+</s>
+<s type="decl" transition="establishment">
+_	PP	_	PNP	PRON	nsubj	_
+___	MD	_	VM0	AUX	aux	_
+__	VV	_	VVI	VERB	root	_
+__	IN	_	PRP	ADP	case	_
+_	DT	_	AT0	DET	det	_
+_____	NN	_	NN1	NOUN	obl	_
+_	,	_	PUN	PUNCT	punct	_
+____	VH	_	VHB	VERB	parataxis	_
+___	NN	_	NN1	NOUN	obj	_
+_____	IN	_	CJS	SCONJ	mark	_
+_____	RB	_	AV0	ADV	advcl	_
+_	,	_	PUN	PUNCT	punct	_
+___	MD	_	VM0	AUX	aux	_
+__	VB	_	VBI	AUX	cop	_
+_________	JJ	_	AJ0	ADJ	parataxis	talk-ative
+___	CC	_	CJC	CCONJ	cc	_
+________	JJ	_	AJ0	ADJ	conj	like-able
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+___	JJ	*LOWER*	AJ0	ADJ	amod	_
+______	NNS	person	NN0	NOUN	nsubj	_
+_____	RB	_	AV0	ADV	advmod	_
+___	VVP	_	VVB	VERB	root	_
+___	DT	_	AT0	DET	det	_
+____	NN	_	NN1	NOUN	obj	_
+_	PP	_	PNP	PRON	nsubj	_
+__	VBP	be	VBB	AUX	cop	_
+_____	RB	_	AV0	ADV	advmod	kind-a
+<sic ana="the soul">
+____	NN	_	NN1	NOUN	acl	_
+</sic>
+__	IN	_	PRF	ADP	case	_
+___	DT	_	AT0	DET	det	_
+_____	NN	_	NN1	NOUN	nmod	_
+_______	IN	_	CJS	ADP	case	be-cause
+__	IN	_	PRF	ADP	fixed	_
+__	PP$	_	DPS	PRON	nmod:poss	_
+_____	NNS	joke	NN2	NOUN	nmod	joke-s
+_	,	_	PUN	PUNCT	punct	_
+____	FW	_	UNC	NOUN	conj	_
+</s>
+<s type="decl" transition="continue">
+____	DT	*LOWER*	DT0	PRON	nsubj:pass	_
+_____	VBG	be	VBG	AUX	aux:pass	be-ing
+____	VVN	say	VVN	VERB	advcl	sai-d
+_	,	_	PUN	PUNCT	punct	_
+_	PP	_	PNP	PRON	nsubj	_
+__	VBP	be	VBB	AUX	cop	_
+_______	RB	_	AV0	ADV	advmod	usual-ly
+___	DT	_	AT0	DET	det	_
+_____	JJ	_	ORD	ADJ	amod	_
+___	NN	_	NN1	NOUN	root	_
+__	TO	_	TO0	PART	mark	_
+_____	VV	_	VVI	VERB	acl	_
+___	DT	_	DT0	DET	det	_
+_____	NN	_	NN1	NOUN	obj	_
+_	(	_	PUL	PUNCT	punct	_
+_________	RB	_	AV0	ADV	advmod	extreme-ly
+______	RB	_	AV0	ADV	advmod	rare-ly
+__	VV	_	VVB	VERB	parataxis	_
+________	RB	_	AV0	ADV	advmod	any-where
+___	IN	_	PRP	ADP	case	_
+______	RBR	long	AJC	ADV	advmod	long-er
+____	IN	_	CJS	ADP	fixed	_
+<w>
+_	CD	_	CRD	NUM	nummod	_
+_	SYM	_	PUN	SYM	case	_
+_	CD	_	CRD	NUM	nmod	_
+</w>
+_____	NNS	hour	NN2	NOUN	obl	hour-s
+_	)	_	PUR	PUNCT	punct	_
+_	,	_	PUN	PUNCT	punct	_
+_	PP	_	PNP	PRON	nsubj	_
+____	VVP	_	VVB	VERB	parataxis	_
+__________	NNS	sleepover	NN2	NOUN	obj	sleepover-s
+_	,	_	PUN	PUNCT	punct	_
+_________	VVG	prefer	VVG	VERB	advcl	prefer-ing
+__	TO	_	TO0	PART	mark	_
+_____	VV	_	VVI	VERB	xcomp	_
+____	RB	_	AV0	ADV	advmod	_
+_____	RB	_	AV0	ADV	advmod	a-lone
+__	IN	_	PRP	ADP	case	_
+_____	NN	_	NN1	NOUN	obl	_
+___	IN	_	PRP	ADP	case	_
+___	CD	_	CRD	NUM	nummod	_
+_____	NNS	hour	NN2	NOUN	nmod	hour-s
+__	IN	_	CJS	SCONJ	mark	_
+______	VVN	need	VVN	VERB	advcl	need-ed
+_	,	_	PUN	PUNCT	punct	_
+___	CC	_	CJC	CCONJ	cc	_
+_	PP	_	PNP	PRON	nsubj	_
+__	VVP	_	VD	AUX	aux	_
+___	RB	not	XX0	PART	advmod	_
+____	VV	_	VVI	VERB	conj	_
+_______	DT	_	DT0	DET	det	an-other
+_____	NN	_	NN1	NOUN	obj	_
+___	IN	_	PRP	ADP	case	_
+_	DT	_	AT0	DET	det	_
+_____	NN	_	NN1	NOUN	obl	mon-th
+__	CC	_	CJC	CCONJ	cc	_
+___	CD	_	CRD	NUM	conj	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+__	IN	*LOWER*	PRP	ADP	case	_
+____	NN	_	NN1	NOUN	obl	_
+_	PP	_	PNP	PRON	nsubj	_
+____	VHP	_	VHB	VERB	root	_
+____	NN	_	NN1	NOUN	obj	_
+__	TO	_	TO0	PART	mark	_
+___	VV	_	VVI	VERB	xcomp	_
+_____	RB	_	AV0	ADV	advmod	a-lone
+__	IN	_	PRP	ADP	case	_
+__	PP$	_	DPS	PRON	nmod:poss	_
+______	NN	_	NN1	NOUN	obl	_
+_	(	_	PUL	PUNCT	punct	_
+___	CD	_	CRD	NUM	nummod	_
+__________	NNS	colleague	NN2	NOUN	nsubj	colleague-s
+__	IN	_	PRF	ADP	case	_
+____	PP	my	PNP	PRON	nmod	_
+____	VVD	take	VVD	VERB	parataxis	_
+_________	NN	_	NN1	NOUN	compound	matern-ity
+_____	NN	_	NN1	NOUN	obj	_
+___	CC	_	CJC	CCONJ	cc	_
+____	PP	_	PNP	PRON	nsubj	_
+__	MD	will	VM0	AUX	aux	_
+___	RB	not	XX0	PART	advmod	_
+______	VV	_	VVI	VERB	conj	_
+__	IN	_	PRP	ADP	case	_
+<date notBefore="2020">
+____	RBR	_	DT0	ADV	obl	_
+____	IN	_	CJS	ADP	case	_
+_	DT	_	AT0	DET	det	_
+____	NN	_	NN1	NOUN	obl	_
+</date>
+_	:	_	PUN	PUNCT	punct	_
+__	PP	_	PNP	PRON	nsubj	_
+__	VBZ	be	VBZ	AUX	cop	_
+___	RB	_	XX0	PART	advmod	_
+___	DT	_	AT0	DET	det	_
+__	NP	_	NP0	PROPN	parataxis	_
+_	)	_	PUR	PUNCT	punct	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+_____	JJ	*LOWER*	AJ0	ADJ	amod	_
+__________	NNS	colleague	NN2	NOUN	nsubj	colleague-s
+_____	RB	_	AV0	ADV	advmod	_
+<sic>
+_______	VV	_	VVB	VERB	reparandum	_
+_____	VVP	_	VVB	VERB	root	_
+</sic>
+__	PP	I	PNP	PRON	obj	_
+__	TO	_	TO0	PART	mark	_
+___	VV	_	VVI	VERB	advcl	_
+__	IN	_	CJS	SCONJ	mark	_
+__	PP	_	PNP	PRON	expl	_
+__	VBZ	be	VBZ	AUX	cop	_
+___	RB	_	XX0	PART	advmod	_
+___	JJ	_	AJ0	ADJ	ccomp	_
+___	IN	_	PRP	SCONJ	mark	_
+__	PP	I	PNP	PRON	nsubj	_
+__	TO	_	TO0	PART	mark	_
+___	VV	_	VVI	VERB	csubj	_
+_____	RB	_	AV0	ADV	advmod	a-lone
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+__	UH	*LOWER*	ITJ	INTJ	discourse	_
+_	,	_	PUN	PUNCT	punct	_
+___	NP	_	NP0	PROPN	discourse	_
+_	,	_	PUN	PUNCT	punct	_
+__	PP	_	PNP	PRON	nsubj	_
+__	VBZ	be	VBZ	AUX	cop	_
+_________	JJ	_	AJ0	ADJ	root	fantas-tic
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#throwaway040501" whom="#lt__">
+<p>
+<s type="multiple" transition="zero">
+__	PP$	*LOWER*	DPS	PRON	nmod:poss	_
+_______	NN	_	NN1	NOUN	nsubj	_
+_______	VVZ	depend	VVZ	VERB	root	de-pend-s
+__	IN	_	PRP	ADP	case	_
+___	WRB	_	AVQ	ADV	obl	_
+_	PP	_	PNP	PRON	nsubj	_
+____	VVP	_	VVB	VERB	advcl:relcl	_
+_______	JJ	_	AJ0	ADJ	advmod	over-all
+___	CC	_	CJC	CCONJ	cc	_
+____	DT	_	CJT	PRON	nsubj	_
+_______	RB	_	AV0	ADV	advmod	usual-ly
+_____	VVZ	mean	VVZ	VERB	conj	mean-s
+_	PP	_	PNP	PRON	nsubj	_
+___	MD	_	VM0	AUX	aux	_
+__	VV	_	VDI	VERB	ccomp	_
+<w>
+__	CD	_	CRD	NUM	nummod	_
+____	NNS	min	NN2	NOUN	obj	min-s
+</w>
+__	IN	_	PRP	ADP	case	_
+___	DT	_	AT0	DET	det	_
+_______	NN	_	NN1	NOUN	obl	_
+____	IN	_	PRP	ADP	case	_
+__	PP$	_	DPS	PRON	nmod:poss	_
+_________	NNS	roommate	NN2	NOUN	obl	room-mate-s
+______	IN	_	CJS	SCONJ	mark	_
+_	PP	_	PNP	PRON	nsubj:pass	_
+__	VBP	be	VBB	AUX	aux:pass	_
+______	VVN	tap	VVN	VERB	advcl	tapp-ed
+_	,	_	PUN	PUNCT	punct	_
+__	CC	_	CJC	CCONJ	cc	_
+_	PP	_	PNP	PRON	nsubj	_
+___	MD	_	VM0	AUX	aux	_
+_____	VV	_	VVI	VERB	conj	_
+_	DT	_	AT0	DET	det	_
+_____	NN	_	NN1	NOUN	obj	_
+____	IN	_	PRP	ADP	case	_
+_	CD	_	CRD	NUM	nummod	_
+______	NNS	person	NN0	NOUN	obl	_
+__	IN	_	PRP	ADP	case	_
+_	DT	_	AT0	DET	det	_
+________	JJ	_	AJ0	ADJ	amod	small-ish
+____	NN	_	NN1	NOUN	obl	_
+_____	IN	_	CJS	SCONJ	mark	_
+________	VVG	crush	VVG	VERB	advcl	crush-ing
+____	PP	they	PNP	PRON	obj	_
+__	IN	_	PRP	ADP	case	_
+______	NN	_	NN1	NOUN	advcl	gam-ing
+___	IN	_	PRP	ADP	case	_
+_	DT	_	AT0	DET	det	_
+___	JJ	_	DT0	ADJ	amod	_
+_____	NNS	hour	NN2	NOUN	obl	hour-s
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+____	DT	*LOWER*	DT0	DET	nsubj	_
+__	IN	_	PRF	ADP	case	_
+_____	DT	that	DT0	PRON	nmod	_
+____	MD	_	VM0	AUX	aux	_
+_____	VV	_	VVI	VERB	root	_
+__	PP	I	PNP	PRON	obj	_
+_	,	_	PUN	PUNCT	punct	_
+___	CC	_	CJC	CCONJ	cc	_
+___	DT	_	AT0	DET	det	_
+________	NN	_	NN1	NOUN	nsubj	charg-ing
+___	IN	_	PRP	ADP	case	_
+____	DT	_	DT0	DET	nmod	_
+____	RB	_	AV0	ADV	advmod	_
+______	RB	_	AV0	ADV	advmod	high-ly
+<sic ana="depends">
+______	VVP	_	VVB	VERB	conj	de-pend
+</sic>
+__	IN	_	PRP	SCONJ	mark	_
+<sic ana="how I">
+_	PP	_	PNP	PRON	nsubj	_
+</sic>
+____	VVP	_	VVB	VERB	advcl	_
+_____	RB	_	AV0	ADV	advmod	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="continue">
+___	DT	*LOWER*	AT0	DET	det	_
+_____	JJ	_	AJ0	ADJ	amod	_
+_____	NN	_	NN1	NOUN	obl:unmarked	_
+_	PP	_	PNP	PRON	nsubj	_
+___	VBD	be	VBD	AUX	cop	_
+____	JJ	_	AJ0	ADJ	root	_
+__	TO	_	TO0	PART	mark	_
+_____	VV	_	VVI	VERB	xcomp	_
+_	CD	_	CRD	NUM	nummod	_
+___	NNS	hour	NN2	NOUN	obj	_
+____	RB	_	AV0	ADV	advmod	_
+________	VVG	chill	VVG	VERB	advcl	chill-ing
+___	CC	_	CJC	CCONJ	cc	_
+_______	VVG	talk	VVG	VERB	conj	talk-ing
+____	IN	_	PRP	ADP	case	_
+___	DT	_	AT0	DET	det	_
+_________	NNS	roommate	NN2	NOUN	obl	room-mate-s
+___	CC	_	CJC	CCONJ	cc	_
+____	DT	_	DT0	DET	det	_
+______	NNS	guest	NN2	NOUN	conj	guest-s
+____	PP	_	PNP	PRON	nsubj	_
+___	VHD	have	VHD	VERB	acl:relcl	_
+____	RP	_	AVP	ADP	compound:prt	_
+_	,	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+_	PP	_	PNP	PRON	nsubj	_
+____	VVD	know	VVD	VERB	root	_
+__	PP$	_	DPS	PRON	nmod:poss	_
+_______	NN	_	NN1	NOUN	nsubj	_
+___	VBD	be	VBD	AUX	cop	_
+_____	RB	_	AJ0	ADV	ccomp	_
+__	IN	_	PRP	SCONJ	mark	_
+_____	VBG	be	VBG	AUX	cop	be-ing
+____	JJ	_	AJ0	ADJ	xcomp	_
+___	CC	_	CJC	CCONJ	cc	_
+_	PP	_	PNP	PRON	nsubj	_
+______	VVD	force	VVD	VERB	conj	forc-ed
+______	PP	_	PNP	PRON	obj	my-self
+____	IN	_	PRP	ADP	case	_
+__	PP$	_	DPS	PRON	nmod:poss	_
+_____	NN	_	NN1	NOUN	obl	_
+_______	IN	_	PRP	SCONJ	mark	be-cause
+___	CD	_	CRD	NUM	nsubj	_
+__	IN	_	PRF	ADP	case	_
+___	DT	_	AT0	DET	det	_
+______	NNS	guest	NN2	NOUN	nmod	guest-s
+__	VBZ	be	VBZ	AUX	cop	_
+__________	JJ	_	AJ0	ADJ	advcl	attract-ive
+___	CC	_	CJC	CCONJ	cc	_
+_	PP	_	PNP	PRON	nsubj	_
+______	VVD	want	VVD	VERB	conj	want-ed
+_	DT	_	AT0	DET	det	_
+______	NN	_	NN1	NOUN	obj	_
+__	TO	_	TO0	PART	mark	_
+_____	VV	_	VVI	VERB	acl	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="multiple" transition="continue">
+__________	VVG	regret	VVG	VERB	root	Regrett-ing
+__	PP	_	PNP	PRON	obj	_
+_____	RB	_	AV0	ADV	advmod	_
+_	,	_	PUN	PUNCT	punct	_
+_______	IN	_	CJS	SCONJ	mark	be-cause
+____	RB	_	AV0	ADV	advmod	_
+______	IN	_	CJS	SCONJ	mark	_
+__	PP	_	PNP	PRON	nsubj	_
+__	VHZ	have	VHZ	AUX	aux	_
+____	VBN	be	VBN	AUX	cop	_
+____	UH	_	ITJ	INTJ	discourse	_
+<date when="2019-06-10">
+___	CD	_	CRD	NUM	nummod	_
+____	NNS	day	NN2	NOUN	advcl	day-s
+</date>
+_	PP	_	PNP	PRON	nsubj	_
+__	VVP	_	VD	AUX	aux	_
+___	RB	not	XX0	PART	advmod	_
+____	VV	_	VVI	VERB	advcl	_
+_____	EX	_	EX0	PRON	expl	_
+__	VBZ	be	VBZ	VERB	ccomp	_
+_	DT	_	AT0	DET	det	_
+_______	JJ	_	AJ0	ADJ	amod	heal-th-y
+______	RB	_	DT0	ADV	advmod	_
+______	NN	_	NN1	NOUN	nsubj	_
+__	TO	_	TO0	PART	mark	_
+______	VV	_	VVI	VERB	acl	en-gage
+____	IN	_	PRP	ADP	case	_
+______	NNS	person	NN0	NOUN	obl	_
+_____	RB	_	AV0	ADV	advmod	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#pointlessarguments3" whom="#throwaway040501">
+<p>
+<s type="decl" transition="zero">
+____	DT	*LOWER*	DT0	PRON	nsubj	_
+__	VBZ	be	VBZ	AUX	cop	_
+____	JJ	_	AJ0	ADJ	root	_
+</s>
+<s type="decl" transition="null">
+<w>
+_____	EX	_	AV0	PRON	expl	_
+<sic ana="'s">
+_	VBZ	be	ZZ0	VERB	root	_
+</sic>
+</w>
+__________	RB	_	AV0	ADV	advmod	definite-ly
+_	DT	_	AT0	DET	det	_
+_____	NN	_	NN1	NOUN	nsubj	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+_______	NN	*LOWER*	NN1	PRON	nsubj	Some-one
+__	VBZ	be	VBZ	AUX	aux	_
+___	RB	not	XX0	PART	advmod	_
+<w>
+___	VVG	go	VVG	VERB	root	_
+__	TO	to	TO0	PART	mark	_
+</w>
+____	VV	_	VVI	VERB	xcomp	_
+__	TO	_	TO0	PART	mark	_
+__	VV	_	VDI	VERB	xcomp	_
+_________	NN	_	NN1	PRON	obj	some-thing
+____	WDT	_	CJT	PRON	nsubj	_
+______	VVZ	drain	VVZ	VERB	acl:relcl	drain-s
+____	PP	they	PNP	PRON	obj	_
+___	CC	_	CJC	CCONJ	cc	_
+_______	NN	_	NN1	PRON	nsubj	some-one
+_____	VVZ	love	VVZ	VERB	conj	love-s
+__	TO	_	TO0	PART	mark	_
+__	VV	_	VDI	VERB	xcomp	_
+_________	NN	_	NN1	PRON	obj	some-thing
+____	WDT	_	CJT	PRON	nsubj	_
+_________	VVZ	energize	VVZ	VERB	acl:relcl	energ-ize-s
+____	PP	they	PNP	PRON	obj	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+____	CC	*LOWER*	PRP	CCONJ	cc	_
+___	DT	_	AT0	DET	det	_
+______	NNS	person	NN0	NOUN	compound	_
+_____	NN	_	NN1	NOUN	compound	_
+____	NN	_	NN1	NOUN	nsubj	_
+__	VBZ	be	VBZ	AUX	cop	_
+____	NN	_	NN1	NOUN	compound	_
+__	RB	_	PRP	ADV	root	_
+</s>
+</p>
+</sp>
+</text>

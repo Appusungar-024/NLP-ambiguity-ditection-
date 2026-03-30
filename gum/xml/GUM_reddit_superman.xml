@@ -1,0 +1,347 @@
+<text id="GUM_reddit_superman" partition="train" author="Neodymium6" dateCollected="2017-09-13" dateCreated="2017-04-30" dateModified="2017-04-30" shortTitle="superman" sourceURL="https://www.reddit.com/r/DC_Cinematic/comments/68e0u3/other_i_know_this_post_is_silly_and_extraneous/" speakerCount="1" speakerList="#Neodymium6" title="OTHER: I know this post is silly and extraneous" type="reddit" summary1="(human1) Some people debate whether the original 3 hour cut of Snyder's movie about Batman and Superman should have been released instead of the shorter version, which prioritized getting to the action faster in order to appeal to a general audience." summary2="(claude-3-5-sonnet-20241022) The author discusses how Batman v Superman's Ultimate Edition, a 3-hour director's cut, faced studio pressure for shorter runtime and more action sequences, highlighting the tension between artistic vision and commercial demands in blockbuster filmmaking." summary3="(gpt4o) The original three-hour cut of Snyder's film, shown to studio executives in 2015, was likely not released due to its lengthy setup and limited action, conflicting with the studio's desire for an action-driven narrative; This highlights a need for collaboration between filmmakers and studios to balance artistic vision with audience entertainment preferences." summary4="(Llama-3.2-3B-Instruct) The author believes that the film “Batman v Superman: Dawn of Justice” was unevenly delivered, with too much setup and not enough action, and that the studio's decision to shorten the film was a mistake." summary5="(Qwen2.5-7B-Instruct) Director Zack Snyder's original 3-hour cut of Justice League was well-crafted but lacked engaging action sequences until the third hour, prompting Warner Bros. to trim it down for theatrical release despite potential benefits of releasing the longer version.">
+<p>
+<s type="frag" transition="null">
+__________	RB	*LOWER*	AV0	ADV	root	Absolute-ly
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+___	DT	*LOWER*	AT0	DET	det	_
+____	NN	_	NN1	NOUN	nsubj	_
+______	NP	_	NP0	PROPN	nsubj	_
+______	VVD	show	VVD	VERB	acl:relcl	show-ed
+___	DT	_	AT0	DET	det	_
+______	NN	_	NN1	NOUN	compound	_
+_____	NNS	exec	NN2	NOUN	iobj	exec-s
+__	IN	_	PRP	ADP	case	_
+___	JJ	_	AJ0	ADJ	amod	_
+<date when="2015">
+____	CD	_	CRD	NUM	obl	_
+</date>
+___	VBD	be	VBD	AUX	cop	_
+_______	IN	_	PRP	ADP	case	with-out
+_	DT	_	AT0	DET	det	_
+_____	NN	_	NN1	NOUN	nmod	_
+___	DT	_	AT0	DET	det	_
+________	JJ	_	AJ0	ADJ	amod	origin-al
+___	NN	_	NN1	NOUN	root	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="frag" transition="establishment">
+___	DT	*LOWER*	AT0	DET	det	_
+_	CD	_	CRD	NUM	nummod	_
+<sic ana="hour">
+__	NN	hour	NN1	NOUN	compound	_
+</sic>
+__	NN	_	NN1	NOUN	root	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="zero">
+_	PP	_	PNP	PRON	nsubj	_
+_____	VVP	_	VVB	VERB	root	_
+__________	NN	_	NN1	NOUN	nsubj	manage-ment
+______	VVD	need	VVD	VERB	ccomp	need-ed
+__	TO	_	TO0	PART	mark	_
+__	VB	_	VBI	AUX	cop	_
+_	DT	_	AT0	DET	det	_
+____	NN	_	NN1	NOUN	xcomp	_
+__	IN	_	PRF	ADP	case	_
+___	DT	_	AT0	DET	det	_
+__________	NN	_	NN1	NOUN	nmod	produc-t-ion
+____	IN	_	PRP	ADP	case	_
+___	PP$	_	DPS	PRON	nmod:poss	it-s
+_________	VVG	script	VVG	VERB	amod	script-ing
+______	NNS	stage	NN2	NOUN	nmod	stage-s
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+______	NP	_	NP0	PROPN	nsubj	_
+____	VVD	make	VVD	VERB	root	_
+___	DT	_	AT0	DET	det	_
+____	NN	_	NN1	NOUN	obj	_
+__	PP	_	PNP	PRON	nsubj	_
+______	VVD	want	VVD	VERB	acl:relcl	want-ed
+__	TO	_	TO0	PART	mark	_
+____	VV	_	VVI	VERB	xcomp	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+__	PP	*LOWER*	PNP	PRON	nsubj	_
+___	VVD	do	VDD	VERB	root	_
+___	PP$	_	DPS	PRON	nmod:poss	_
+___	NN	_	NN1	NOUN	obj	_
+_	,	_	PUN	PUNCT	punct	_
+___	CC	_	CJC	CCONJ	cc	_
+__	PP	_	PNP	PRON	nsubj	_
+___	VHD	have	VHD	VERB	conj	_
+__	DT	_	AT0	DET	det	_
+_________	NN	_	NN1	NOUN	obj	over-sigh-t
+_	,	_	PUN	PUNCT	punct	_
+___	CC	_	CJC	CCONJ	cc	_
+____	RB	_	CJS	ADV	advmod	_
+__	PP	_	PNP	PRON	nsubj	_
+___	VBD	be	VBD	AUX	cop	_
+_____	JJ	_	AJ0	ADJ	conj	a-ware
+____	IN/that	_	CJT	SCONJ	mark	_
+_	DT	_	AT0	DET	det	_
+_	CD	_	CRD	NUM	nummod	_
+<sic ana="hour">
+__	NN	hour	NN1	NOUN	compound	_
+</sic>
+___	NN	_	NN1	NOUN	nsubj	_
+__	VBZ	be	VBZ	AUX	cop	_
+<sic ana="n't">
+__	RB	not	XX0	PART	advmod	_
+</sic>
+___________	RB	_	AV0	ADV	advmod	necessari-ly
+____	WP	_	PNQ	PRON	ccomp	_
+___	DT	_	AT0	DET	det	_
+______	NN	_	NN1	NOUN	nsubj	_
+_____	VVZ	want	VVZ	VERB	acl:relcl	want-s
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="sub" transition="smooth-shift">
+___	DT	*LOWER*	AT0	DET	det	_
+______	NN	_	NN1	NOUN	nsubj	_
+<w>
+______	MD	_	VM0	AUX	aux	_
+<sic ana="'ve">
+__	VH	have	VVI	AUX	aux	_
+</sic>
+</w>
+____	RB	_	AV0	ADV	advmod	_
+________	VVN	release	VVN	VERB	root	releas-ed
+___	DT	_	AT0	DET	det	_
+__	NN	_	NN1	NOUN	obj	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="sub" transition="smooth-shift">
+__	PP	*LOWER*	PNP	PRON	nsubj	_
+________	RB	_	AV0	ADV	advmod	probab-ly
+_____	MD	_	VM0	AUX	aux	_
+___	VH	have	VHI	AUX	aux	_
+____	VVN	make	VVN	VERB	root	_
+____	JJR	_	AJC	ADJ	obj	_
+____	IN	_	PRP	ADP	case	_
+___	DT	_	AT0	DET	det	_
+________	NN	_	NN1	NOUN	obl	de-crease
+__	IN	_	PRP	ADP	case	_
+______	NN	_	NN1	NOUN	nmod	_
+__	IN	_	PRF	ADP	case	_
+________	NNS	showing	NN2	NOUN	nmod	show-ing-s
+_	,	_	PUN	PUNCT	punct	_
+___	CC	_	CJC	CCONJ	cc	_
+__	PP	_	PNP	PRON	nsubj	_
+_____	MD	_	VM0	AUX	aux	_
+___	VH	have	VHI	AUX	aux	_
+____	VBN	be	VBN	AUX	cop	_
+_	DT	_	AT0	DET	det	_
+____	RBR	_	AV0	ADV	advmod	_
+_________	VVN	respect	VVN	VERB	amod	respect-ed
+____	NN	_	NN1	NOUN	conj	_
+_	,	_	PUN	PUNCT	punct	_
+___	CC	_	CJC	CCONJ	cc	_
+____	DT	_	CJT	PRON	nsubj	_
+_______	VVZ	carry	VVZ	VERB	conj	carrie-s
+____	JJR	_	AJC	ADJ	amod	_
+<sic ana="weight">
+____	NN	weight	NN1	NOUN	obj	_
+</sic>
+__	IN	_	PRP	ADP	case	_
+___	DT	_	AT0	DET	det	_
+___	NN	_	NN1	NOUN	obl	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+___	CC	*LOWER*	CJC	CCONJ	cc	_
+___	DT	_	AT0	DET	det	_
+_____	NN	_	NN1	NOUN	nsubj	mov-ie
+___	VBD	be	VBD	AUX	cop	_
+______	JJ	_	AJ0	ADJ	root	un-even
+__	IN	_	PRP	ADP	case	_
+___	PP$	_	DPS	PRON	nmod:poss	it-s
+________	NN	_	NN1	NOUN	obl	deliver-y
+__	IN	_	PRF	ADP	case	_
+______	NN	_	NN1	NOUN	compound	act-ion
+_________	NNS	sequence	NN2	NOUN	nmod	sequence-s
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+__	PP	*LOWER*	PNP	PRON	nsubj:pass	_
+___	VBD	be	VBD	AUX	aux:pass	_
+______	RB	_	AV0	ADV	advmod	most-ly
+_________	VVN	contain	VVN	VERB	root	contain-ed
+__	IN	_	PRP	ADP	case	_
+___	DT	_	AT0	DET	det	_
+____	JJ	_	ORD	ADJ	amod	_
+___	NN	_	NN1	NOUN	obl	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+______	VHG	have	VHG	VERB	csubj	Hav-ing
+_	DT	_	AT0	DET	det	_
+_	CD	_	CRD	NUM	nummod	_
+____	NN	_	NN1	NOUN	compound	_
+___	NN	_	NN1	NOUN	obj	_
+__	RP	_	AVP	ADP	compound:prt	_
+__	IN	_	PRF	ADP	case	_
+_________	NN	_	NN1	NOUN	compound	_
+________	NN	_	NN1	NOUN	nmod	build-ing
+___	CC	_	CJC	CCONJ	cc	_
+________	NN	_	NN1	NOUN	conj	_
+__	VBZ	be	VBZ	AUX	cop	_
+___	RB	not	XX0	PART	advmod	_
+___	DT	_	AT0	DET	det	_
+____	JJS	good	AJS	ADJ	amod	be-st
+________	NN	_	NN1	NOUN	root	_
+____	WRB	_	CJS	ADV	advmod	_
+_________	VVG	market	VVG	VERB	advcl	market-ing
+__	IN	_	PRP	ADP	case	_
+__	NN	_	NN1	NOUN	obl	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+____	PP	*LOWER*	PNP	PRON	nsubj	_
+____	VVP	_	VVB	VERB	root	_
+__	TO	_	TO0	PART	mark	_
+__	VB	_	VBI	AUX	aux:pass	_
+___________	VVN	entertain	VVN	VERB	xcomp	entertain-ed
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="other" transition="zero">
+__	NP	_	NP0	PROPN	nsubj	_
+________	RB	_	AV0	ADV	advmod	probab-ly
+___	VVD	see	VVD	VERB	root	_
+____	DT	_	DT0	PRON	obj	_
+___	CC	_	CJC	CCONJ	cc	_
+______	VVD	want	VVD	VERB	conj	want-ed
+__	TO	_	TO0	PART	mark	_
+___	VV	_	VVI	VERB	xcomp	_
+__	IN	_	PRP	ADP	case	_
+___	DT	_	AT0	DET	det	_
+______	NN	_	NN1	NOUN	obl	act-ion
+____	RB	_	AV0	ADV	advmod	_
+_______	RBR	quick	AJC	ADV	advmod	quick-er
+_	,	_	PUN	PUNCT	punct	_
+____	RB	_	AV0	ADV	advmod	_
+______	IN	_	CJS	SCONJ	mark	_
+____	PP	_	PNP	PRON	nsubj	_
+<w>
+_____	MD	_	VM0	AUX	aux	_
+<sic ana="n't">
+___	RB	not	AV0	PART	advmod	_
+</sic>
+</w>
+____	VH	_	VHI	AUX	aux	_
+___	VHN	have	VHN	VERB	advcl	_
+__	TO	_	TO0	PART	mark	_
+__	VV	_	VDI	VERB	xcomp	_
+____	DT	_	CJT	PRON	obj	_
+___	VHD	have	VHD	AUX	aux	_
+_____	EX	_	AV0	PRON	expl	_
+____	VBN	be	VBN	AUX	cop	_
+________	JJ	_	AJ0	ADJ	amod	_
+______	NN	_	NN1	NOUN	compound	act-ion
+_________	NNS	sequence	NN2	NOUN	advcl	sequence-s
+__________	IN	_	PRP	ADP	case	through-out
+___	DT	_	AT0	DET	det	_
+______	JJ	_	AJ0	ADJ	amod	_
+____	NN	_	NN1	NOUN	nmod	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+___	CC	*LOWER*	CJC	CCONJ	cc	_
+___	DT	_	AV0	DET	nsubj	_
+__	PP	_	PNP	PRON	nsubj	_
+___	VVD	get	VVD	VERB	acl:relcl	_
+__	IN	_	PRP	ADP	case	_
+___	DT	_	AT0	DET	det	_
+_____	JJ	_	ORD	ADJ	amod	_
+_	CD	_	CRD	NUM	nummod	_
+<sic ana="hours">
+___	NNS	hour	NN2	NOUN	obl	_
+</sic>
+___	VBD	be	VBD	AUX	cop	_
+___	DT	_	AT0	DET	det	_
+_____	JJ	_	AJ0	ADJ	amod	_
+_____	NN	_	NN1	NOUN	root	_
+__	IN	_	PRF	ADP	case	_
+________	NP	_	NP0	PROPN	nmod	Super-man
+__	IN	_	PRP	ADP	case	_
+______	NP	_	NP0	PROPN	nmod	_
+_	,	_	PUN	PUNCT	punct	_
+__________	NP	_	NP0	PROPN	conj	_
+______	NP	_	NP0	PROPN	flat	Bat-man
+_	,	_	PUN	PUNCT	punct	_
+_________	NP	_	NP0	PROPN	compound	Bat-mobile
+_____	NN	_	NN1	NOUN	conj	_
+_	,	_	PUN	PUNCT	punct	_
+___	CC	_	CJC	CCONJ	cc	_
+____	RB	_	AV0	ADV	advmod	_
+___	DT	_	AT0	DET	det	_
+________	JJ	_	AJ0	ADJ	amod	non-stop
+___	JJ	_	ORD	ADJ	amod	_
+____	NN	_	NN1	NOUN	conj	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="null">
+____	DT	*LOWER*	DT0	DET	det	_
+____	NN	_	NN1	NOUN	nsubj	_
+______	VVD	need	VVD	VERB	root	need-ed
+_____	JJ	_	AJ0	ADJ	amod	_
+____	NN	_	NN1	NOUN	obj	_
+____	IN	_	PRP	ADP	case	_
+___	DT	_	AT0	DET	det	_
+____	JJ	_	AJ0	ADJ	amod	_
+_________	NN	_	NN1	NOUN	obl	beginn-ing
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+<s type="sub" transition="null">
+___	DT	*LOWER*	AT0	DET	det	_
+_	``	_	PUQ	PUNCT	punct	_
+<w>
+_________	NN	_	NN1	NOUN	compound	film-mak-er
+_	HYPH	_	PUN	PUNCT	punct	_
+______	VVN	drive	VVN	VERB	amod	driv-en
+</w>
+_	''	_	PUQ	PUNCT	punct	_
+________	NN	_	NN1	NOUN	nsubj	_
+___	MD	_	VM0	AUX	aux	_
+_____	RB	_	AV0	ADV	advmod	_
+____	VV	_	VVI	VERB	root	_
+__	RB	_	AV0	ADV	advmod	_
+____	RB	_	AJ0	ADV	advmod	_
+__	IN	_	CJS	SCONJ	mark	_
+___	DT	_	AT0	DET	det	_
+_______	NNS	studio	NN2	NOUN	nsubj	studio-s
+______	VVP	_	VVB	VERB	advcl	_
+_	DT	_	AT0	DET	det	_
+____	NN	_	NN1	NOUN	obj	_
+__	IN	_	PRF	ADP	case	_
+_______	JJ	_	AJ0	ADJ	amod	minim-al
+_________	NN	_	NN1	NOUN	nmod	blue-print
+___	IN	_	PRP	ADP	case	_
+___	DT	_	AT0	DET	det	_
+________	NN	_	NN1	NOUN	obl	direct-or
+____	WDT	_	CJT	PRON	nsubj	_
+____	NN	_	NN1	NOUN	advmod	_
+__	IN	_	PRF	ADP	fixed	_
+_______	VVZ	match	VVZ	VERB	acl:relcl	matche-s
+__	RP	_	AVP	ADP	compound:prt	_
+____	IN	_	PRP	ADP	case	_
+____	WP	_	PNQ	PRON	obl	_
+_	``	_	PUQ	PUNCT	punct	_
+__________	VVZ	entertain	VVZ	VERB	acl:relcl	entertain-s
+_	''	_	PUQ	PUNCT	punct	_
+_	DT	_	AT0	DET	det	_
+_______	JJ	_	AJ0	ADJ	amod	_
+________	NN	_	NN1	NOUN	obj	_
+_	SENT	_	PUN	PUNCT	punct	_
+</s>
+</p>
+</text>
